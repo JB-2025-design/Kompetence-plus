@@ -29,6 +29,7 @@ TOPICS = {
     "Rodiče": "Rodiče",    
     "Učitelé": "Učitelé",
     "Žáci a studenti": "Žáci a studenti",     
+    "Slovní hodnocení": "Slovní hodnocení",
         
 }
 
@@ -823,6 +824,171 @@ Pomáhá ti získat dovednosti, které budou rozhodovat o tvé budoucnosti — b
 Protože škola není jen o tom, co se naučíš.  
 Je hlavně o tom, **kým díky tomu můžeš být**.
 """,
+    "Slovní hodnocení":
+"""
+Slovní hodnocení dnes přichází do škol v době, kdy se celý český vzdělávací systém potýká s hlubší, dlouhodobou nejasností: vágností kompetenčního modelu, na němž jsou postaveny rámcové vzdělávací programy. Stejně jako slovní hodnocení, i kompetence byly do systému zavedeny s dobrým úmyslem, ale bez přesného vymezení obsahu, úrovní a kritérií. Výsledkem je dvojí vágnost: vágní kompetence se potkávají s vágním hodnocením.
+
+Pokud slovní hodnocení popisuje dovednosti, které nejsou pevně ukotvené v žádném standardu, nemůže být srozumitelné, spravedlivé ani měřitelné. Existuje reálné riziko, že se slovní hodnocení stane pouze „obecným komentářem“ k výkonu dítěte, podobně jako kompetence v RVP zůstaly roky obecnými ideály bez konkrétního obsahového ukotvení. Stejně jako věta „žák řeší problémy“ neříká, jaké problémy, jakým způsobem a v jaké úrovni, tak ani věta „žák se zlepšil“ neříká, v čem přesně, o kolik, nebo zda to odpovídá očekávanému standardu daného ročníku.
+
+Tato vágnost je hlavním důvodem toho, že se systém stále vrací ke známkám. Ať už jsou známky sebevíc kritizované, mají jednu vlastnost, která v současném kurikulu chybí: jsou jednoznačné. Neříkají sice dost o procesu učení, ale dávají jasný signál o výsledku. Problém však není v samotné známce – problém je v tom, že známka nestojí na jasně definovaných kompetencích a standardech. Hodnotí se „pocitově“, na základě dojmů, podle individuálního výkladu učitele. A právě to lze změnit.
+
+Jasně vymezené obsahové kompetence (co má dítě vědět a umět v jednotlivých oborech) a procesní kompetence (jak má žák přemýšlet, argumentovat, řešit úlohy, aplikovat poznatky) by umožnily navázat známkování i slovní hodnocení na konkrétní, měřitelný rámec. V praxi by to znamenalo, že známka už není subjektivní průměr pocitů, ale číselným vyjádřením toho, do jaké míry žák splňuje konkrétní standard. A slovní hodnocení by se stalo detailním popisem procesu podle jasné struktury – nikoli improvizovaným komentářem.
+
+Pokud chceme slovní hodnocení, které je opravdu užitečné, a školství, které je skutečně kompetenční, musí obojí stát na stejném základě: na jednoznačném vymezení toho, co je výkon žáka, jaké jsou úrovně a jak vypadá očekávaný výsledek. Jen tehdy může být slovní hodnocení konkrétní, pravdivé a individuální. A jen tehdy může známka vyjadřovat něco jiného než náhodný signál.
+
+Kompetenčně-znalostní model, který propojuje obsah (znalosti, gramotnosti) a proces (kompetence), vytváří cestu z dvojí vágnosti. Umožňuje hodnotit spravedlivě, srozumitelně a v souladu s tím, co má být skutečným cílem vzdělávání: porozumění, růst a schopnost obstát v komplexním světě. Slovní hodnocení i známky mohou být smysluplné – pokud stojí na sdíleném, jasně popsaném rámci.
+
+## Gramotnosti jako chybějící druhá dimenze
+
+
+Řada evropských zemí tento problém vyřešila tak, že do vzdělávacích standardů vložila druhou dimenzi, která doplňuje kompetence o obsah. Rakouský model iKM PLUS je v tomto ohledu příkladem dobré praxe: vedle procesních kompetencí (modelování, počítání, interpretace, argumentace) pracuje s jasnými obsahovými oblastmi (čísla, algebra, geometrie, statistika). Každý test i úloha tak ověřuje dvě věci najednou:
+– jak žák postupuje (proces),
+– zda postup vede ke správnému výsledku (obsah).
+
+V českém RVP existují gramotnosti, ale nejsou zakotveny jako funkční součást hodnoticí matice. Nepůsobí jako druhá osa, která by kompetence ukotvila. Jsou spíše doprovodným dokumentem, druhořadým vysvětlením, nikoli strukturovaným standardem.
+
+Právě gramotnosti jako druhá dimenze by umožnily, aby kompetence nezůstaly vágní a aby školství bylo schopné výsledky žáků měřit a spravedlivě hodnotit.
+
+## Komplexní úlohy jako třetí rozměr hodnocení
+
+
+Rakousko jde dokonce ještě dál a pracuje s komplexními úlohami, které propojují více oblastí i více kompetenčních procesů. Takové úlohy reflektují realitu: skutečný problém není „o geometrii“ nebo „o procentách“. Je to problém, který vyžaduje kombinaci dovedností, modelování, výpočtů, ověřování i interpretace dat.
+
+Podobná třetí dimenze by v ČR vytvořila systém, který:
+– je porovnatelný,
+– je měřitelný,
+– podporuje kompetence,
+– zároveň chrání znalostní minimum,
+– a reflektuje reálné požadavky 21. století.
+
+## Nutnost standardů jako podmínka spravedlivého školství
+
+K tomu všemu se pojí jedna zásadní věc: potřebujeme standardy. Ne vágní formulace, ale jasná kritéria, která říkají:
+– co přesně má žák umět,
+– jak to ověřit,
+– jak vypadá minimální úroveň,
+– jaké jsou úrovně pokročilejší.
+
+Standardy nejsou bič, ale kompas. Pomáhají učitelům, žákům i rodičům. Omezují chaos, sjednocují kvalitu a dávají školám jistotu. Bez nich bude paradox českého školství přetrvávat.
+
+České školství dnes stojí na křižovatce mezi dvěma světy: konstruktivistickým ideálem kompetenční výuky a realistickým tlakem na ověřitelné znalosti. Jeden bez druhého nefunguje. Žák potřebuje pevné znalostní minimum, aby mohl rozvíjet kompetence, a kompetence, aby mohl své znalosti správně používat a dávat jim smysl.
+
+Jestliže má česká škola připravit žáky na svět, kde budou muset korigovat umělou inteligenci, rozpoznávat chyby, přemýšlet v souvislostech a obstát v nejasném informačním prostředí, musí být kompetence doplněny o jasné obsahové standardy a učivo musí být zasazeno do dvou- až třírozměrné struktury hodnocení.
+
+Teprve tehdy zmizí paradox, o kterém dnes všichni víme, ale který nikdo dosud nevyřešil.
+
+# Demonstrace: Kompetenční matice (4. ročník ZŠ, české učivo)
+
+### Obsahové oblasti – 4. třída
+## Procesní kompetence × Obsah učiva (4. ročník)
+
+| **Procesní kompetence / Obsah učiva** | **Čísla a operace do 10 000** | **Jednoduché závislosti** | **Geometrie** | **Data a grafy** |
+|---------------------------------------|-------------------------------|----------------------------|----------------|------------------|
+| **ZNÁZORNIT / MODELOVAT** | **Proces:** Žák převede slovní úlohu na příklad (např. „Máme 2450 Kč a utratíme 670 Kč…“ → 2450 − 670). **Výsledek:** Model odpovídá situaci; nejsou zaměněna čísla ani operace. | **Proces:** Žák vytvoří tabulku vztahu (např. počet balíčků – počet sušenek). **Výsledek:** Tabulka odpovídá pravidlu („1 balíček = 5 sušenek“). | **Proces:** Žák nakreslí obdélník podle popisu, vyznačí strany a pravoúhlé rohy. **Výsledek:** Model odpovídá zadání – strany jsou správné, tvar je obdélník. | **Proces:** Žák zakreslí jednoduchý sloupcový graf podle dat. **Výsledek:** Osové hodnoty i výška sloupců odpovídají údajům. |
+| **POČÍTAT / PROVÁDĚT OPERACE** | **Proces:** Žák postupuje podle algoritmu (písemné sčítání, odčítání, násobení). **Výsledek:** Výpočet je správný (např. 367 + 458 = 825). | **Proces:** Žák doplní chybějící hodnoty podle pravidla (řada o 100, násobky 5). **Výsledek:** Všechny hodnoty odpovídají danému vztahu. | **Proces:** Žák vypočítá obvod obdélníku podle vzorce O = 2·(a + b). **Výsledek:** Výsledek odpovídá správnému výpočtu a jednotkám (např. cm). | **Proces:** Žák spočítá četnosti nebo porovná dvě hodnoty v tabulce. **Výsledek:** Výsledky přesně odpovídají datům. |
+| **INTERPRETOVAT VÝSLEDEK** | **Proces:** Žák posoudí, zda výsledek (např. 825 Kč) dává smysl. **Výsledek:** Interpretace je správná – žák rozpozná nemožný výsledek (např. záporné peníze). | **Proces:** Žák vysvětlí, podle čeho se mění hodnoty v tabulce. **Výsledek:** Popis odpovídá pravidlu (např. přičítá se vždy 3). | **Proces:** Žák určí, zda útvar je pravoúhlý nebo zda plocha odpovídá měření. **Výsledek:** Závěr odpovídá skutečným rozměrům. | **Proces:** Žák přečte z grafu nejvyšší/nejnižší hodnotu. **Výsledek:** Výběr i interpretace odpovídají grafu. |
+| **ARGUMENTOVAT / ZDŮVODŇOVAT** | **Proces:** Žák vysvětlí, proč zvolil násobení místo sčítání (např. „5 krabiček po 8 tužkách“). **Výsledek:** Zdůvodnění vede ke správnému výsledku. | **Proces:** Žák odůvodní pravidlo v číselné řadě. **Výsledek:** Závěr odpovídá všem hodnotám v řadě. | **Proces:** Žák vysvětlí, proč se jedná o obdélník nebo proč obvod vychází tak, jak vychází. **Výsledek:** Zdůvodnění odpovídá vlastnostem útvaru. | **Proces:** Žák vysvětlí, proč je určitý sloupec vyšší než jiný a co to znamená. **Výsledek:** Argumentace správně odpovídá datům. |
+
+
+Tato matice ukazuje, jak lze i na prvním stupni ZŠ (zde konkrétně ve 4. třídě) propojit kompetence s obsahem učiva, podobně jako v rakouském iKM PLUS. Žák je hodnocen dvěma způsoby:
+
+• procesně: jak uvažuje, jak sestaví model, jak postupuje, jak argumentuje;  
+• výsledkově: zda jeho řešení dává smysl, je správné a odpovídá realitě.
+
+Právě tato dvojí optika — postup + správnost — v českém RVP dlouhodobě chybí. Rakouský model ukazuje, že i malé děti lze vést k přesné formulaci problémů, jednoznačnému modelování a k tomu, aby nejen spočítaly výsledek, ale i věděly, proč je správný.
+
+Následující část vysvětluje, jak má vypadat hierarchie a vazby v kompetenčně-znalostním modelu, pokud stojí na stupňovitosti:
+
+Znalosti → Gramotnosti → Kompetence → Komplexita  
+a zároveň hodnotí obsahové i procesní kompetence v rámci každého předmětu.
+
+------------------------------------------
+Model čtyřúrovňové závislosti ve vzdělávání
+------------------------------------------
+
+Tento model řeší hlavní problém českého kurikula: kompetence existují, ale nejsou k ničemu připojené. Výsledkem je roztříštěnost výuky, nejednotné hodnocení a neschopnost popsat výkon žáka přesně.
+
+Nový model staví na jasně definované vertikále čtyř úrovní:
+
+1. ZNALOSTI (Knowledge) – základní úroveň
+------------------------------------------
+Otázka: Co žák zná?
+
+Znalosti zahrnují fakta, pojmy, pravidla, postupy a struktury.  
+Příklady:
+• čísla, operace, jednotky  
+• slovní druhy, čtenářské postupy  
+• vlastnosti útvarů  
+• přírodopisné pojmy  
+• digitální nástroje a jejich funkce  
+
+Znalosti jsou měřitelné. Vždy mají:
+• minimální standard  
+• jasný obsah pro daný ročník  
+• konkrétní očekávané výstupy  
+
+2. GRAMOTNOSTI (Literacies) – aplikační úroveň
+----------------------------------------------
+Otázka: Jak žák používá znalosti v situacích?
+
+Gramotnost = schopnost použít znalosti v reálných kontextech.  
+Nejde o kompetence, ale o obsahové dovednosti s přesnými kritérii (podle OECD/PISA):
+
+• čtenářská gramotnost – práce s textem  
+• matematická gramotnost – modelování, výpočty, interpretace  
+• přírodovědná gramotnost – práce s daty, pokusy, vysvětlení jevů  
+• digitální gramotnost – práce s informacemi, nástroji, bezpečností  
+
+Gramotnosti tvoří most mezi znalostí a kompetencí.
+
+3. KOMPETENCE (Competences) – procesní úroveň
+---------------------------------------------
+Otázka: Jak žák pracuje, přemýšlí a řeší problémy?
+
+Kompetence popisují postup, nikoli výsledek. Říkají:
+
+• jak žák volí strategii  
+• jak propojuje informace  
+• jak argumentuje  
+• jak plánuje  
+• jak spolupracuje  
+• jak vyhodnocuje chybu  
+• jak se učí  
+
+Kompetence samy o sobě nic neříkají, pokud nejsou ukotvené v obsahu a gramotnostech.
+
+4. KOMPLEXITA (Complex Tasks) – nejvyšší úroveň
+-----------------------------------------------
+Otázka: Jak žák řeší složité úlohy, kde se vše propojuje?
+
+Komplexita znamená schopnost:
+
+• kombinovat více znalostí  
+• uplatnit gramotnosti  
+• volit vhodné metody (kompetence)  
+• řešit nejednoznačné, realističtější problémy  
+• interpretovat data, simulace a schémata  
+• korigovat chybu vlastní i chybu AI  
+
+Komplexní úlohy jsou tím, na co má moderní vzdělávání žáka postupně připravovat – ale teprve tehdy, když má vybudovaný základ.
+
+# Závěr
+
+Slovní hodnocení i známky mohou fungovat –  
+ale pouze tehdy, pokud stojí na **stejně pevném kompetenčně-znalostním rámci**. 
+
+České školství dnes učí kompetence, ale zkouší znalosti.  
+Tento rozpor lze překonat jen tehdy, když:
+
+- kompetence dostanou obsah,
+- gramotnosti se stanou druhou osou,
+- komplexní úlohy třetí,
+- a učivo bude mít jasné standardy.
+
+Teprve pak bude možné hodnotit děti spravedlivě, srozumitelně a moderně.
+"""
+
+
 
 
 }
@@ -869,6 +1035,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
