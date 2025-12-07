@@ -868,7 +868,8 @@ st.markdown("---")
 
 text = get_content(topic)
 st.markdown(text)
-st.markdown("**Autor: Mgr. Jiří Bochez, 7. 12. 2025**")
+st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
