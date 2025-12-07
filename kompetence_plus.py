@@ -826,6 +826,7 @@ Je hlavně o tom, **kým díky tomu můžeš být**.
 """,
     "Slovní hodnocení":
 """
+## Slovní hodnocení
 Slovní hodnocení dnes přichází do škol v době, kdy se celý český vzdělávací systém potýká s hlubší, dlouhodobou nejasností: vágností kompetenčního modelu, na němž jsou postaveny rámcové vzdělávací programy. Stejně jako slovní hodnocení, i kompetence byly do systému zavedeny s dobrým úmyslem, ale bez přesného vymezení obsahu, úrovní a kritérií. Výsledkem je dvojí vágnost: vágní kompetence se potkávají s vágním hodnocením.
 
 Pokud slovní hodnocení popisuje dovednosti, které nejsou pevně ukotvené v žádném standardu, nemůže být srozumitelné, spravedlivé ani měřitelné. Existuje reálné riziko, že se slovní hodnocení stane pouze „obecným komentářem“ k výkonu dítěte, podobně jako kompetence v RVP zůstaly roky obecnými ideály bez konkrétního obsahového ukotvení. Stejně jako věta „žák řeší problémy“ neříká, jaké problémy, jakým způsobem a v jaké úrovni, tak ani věta „žák se zlepšil“ neříká, v čem přesně, o kolik, nebo zda to odpovídá očekávanému standardu daného ročníku.
@@ -840,17 +841,15 @@ Kompetenčně-znalostní model, který propojuje obsah (znalosti, gramotnosti) a
 
 ## Gramotnosti jako chybějící druhá dimenze
 
-
 Řada evropských zemí tento problém vyřešila tak, že do vzdělávacích standardů vložila druhou dimenzi, která doplňuje kompetence o obsah. Rakouský model iKM PLUS je v tomto ohledu příkladem dobré praxe: vedle procesních kompetencí (modelování, počítání, interpretace, argumentace) pracuje s jasnými obsahovými oblastmi (čísla, algebra, geometrie, statistika). Každý test i úloha tak ověřuje dvě věci najednou:
 – jak žák postupuje (proces),
 – zda postup vede ke správnému výsledku (obsah).
 
-V českém RVP existují gramotnosti, ale nejsou zakotveny jako funkční součást hodnoticí matice. Nepůsobí jako druhá osa, která by kompetence ukotvila. Jsou spíše doprovodným dokumentem, druhořadým vysvětlením, nikoli strukturovaným standardem.
+V novém českém RVP existují gramotnosti, ale nejsou zakotveny jako funkční součást hodnoticí matice. Nepůsobí jako druhá osa, která by kompetence ukotvila. Jsou spíše doprovodným dokumentem, druhořadým vysvětlením, nikoli strukturovaným standardem.
 
 Právě gramotnosti jako druhá dimenze by umožnily, aby kompetence nezůstaly vágní a aby školství bylo schopné výsledky žáků měřit a spravedlivě hodnotit.
 
 ## Komplexní úlohy jako třetí rozměr hodnocení
-
 
 Rakousko jde dokonce ještě dál a pracuje s komplexními úlohami, které propojují více oblastí i více kompetenčních procesů. Takové úlohy reflektují realitu: skutečný problém není „o geometrii“ nebo „o procentách“. Je to problém, který vyžaduje kombinaci dovedností, modelování, výpočtů, ověřování i interpretace dat.
 
@@ -902,16 +901,14 @@ Následující část vysvětluje, jak má vypadat hierarchie a vazby v kompeten
 Znalosti → Gramotnosti → Kompetence → Komplexita  
 a zároveň hodnotí obsahové i procesní kompetence v rámci každého předmětu.
 
-------------------------------------------
-Model čtyřúrovňové závislosti ve vzdělávání
-------------------------------------------
+## Model čtyřúrovňové závislosti ve vzdělávání
 
 Tento model řeší hlavní problém českého kurikula: kompetence existují, ale nejsou k ničemu připojené. Výsledkem je roztříštěnost výuky, nejednotné hodnocení a neschopnost popsat výkon žáka přesně.
 
 Nový model staví na jasně definované vertikále čtyř úrovní:
 
 1. ZNALOSTI (Knowledge) – základní úroveň
-------------------------------------------
+
 Otázka: Co žák zná?
 
 Znalosti zahrnují fakta, pojmy, pravidla, postupy a struktury.  
@@ -928,7 +925,7 @@ Znalosti jsou měřitelné. Vždy mají:
 • konkrétní očekávané výstupy  
 
 2. GRAMOTNOSTI (Literacies) – aplikační úroveň
-----------------------------------------------
+
 Otázka: Jak žák používá znalosti v situacích?
 
 Gramotnost = schopnost použít znalosti v reálných kontextech.  
@@ -942,7 +939,7 @@ Nejde o kompetence, ale o obsahové dovednosti s přesnými kritérii (podle OEC
 Gramotnosti tvoří most mezi znalostí a kompetencí.
 
 3. KOMPETENCE (Competences) – procesní úroveň
----------------------------------------------
+
 Otázka: Jak žák pracuje, přemýšlí a řeší problémy?
 
 Kompetence popisují postup, nikoli výsledek. Říkají:
@@ -958,7 +955,7 @@ Kompetence popisují postup, nikoli výsledek. Říkají:
 Kompetence samy o sobě nic neříkají, pokud nejsou ukotvené v obsahu a gramotnostech.
 
 4. KOMPLEXITA (Complex Tasks) – nejvyšší úroveň
------------------------------------------------
+
 Otázka: Jak žák řeší složité úlohy, kde se vše propojuje?
 
 Komplexita znamená schopnost:
@@ -1035,6 +1032,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
