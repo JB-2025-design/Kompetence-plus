@@ -299,10 +299,8 @@ Klíčová není samotná změna kurikula, ale **změna paradigmatu**, v níž p
 - od izolované výuky k propojenému učení,  
 - od „učitelského přenosu“ k profesně vedené podpoře porozumění.
 
-Tato změna umožní českému vzdělávání vystoupit z dlouhodobého paradoxu  
-a vytvořit systém, který je spravedlivý, měřitelný a zároveň moderní —  
-systém, který připraví žáky na svět, kde znalost a kompetence nejsou protiklady,  
-ale dvě strany téhož procesu.
+Tato změna umožní českému vzdělávání vystoupit z dlouhodobého paradoxu a vytvořit systém, který je spravedlivý, měřitelný a zároveň moderní —  
+systém, který připraví žáky na svět, kde znalost a kompetence nejsou protiklady, ale dvě strany téhož procesu.
 """,
     
     "Funkční gramotnost":
@@ -873,3 +871,4 @@ st.markdown("---")
 
 text = get_content(topic)
 st.markdown(text)
+
