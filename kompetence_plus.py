@@ -521,7 +521,7 @@ Klíčové kompetence jsou užitečné, ale česká implementace je neúplná, p
 **komplexní úlohy (aplikace)**
 
 Takový rámec používají Rakousko (iKM+), Německo, Kanada, Singapur i Finsko.  
-**A právě tímto směrem míří koncept **Kompetence plus.**
+A právě tímto směrem míří koncept **Kompetence plus.**
 
 """,
 "Rodiče":
@@ -869,6 +869,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
