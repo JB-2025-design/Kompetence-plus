@@ -29,9 +29,7 @@ TOPICS = {
     "Rodiče": "Rodiče",    
     "Učitelé": "Učitelé",
     "Žáci a studenti": "Žáci a studenti",     
-    "Škola a zřizovatel": "Škola a zřizovatel",
-    "Systém (MŠMT, NPI)": "Systém (MŠMT, NPI)",
-    
+        
 }
 
 # -----------------------
@@ -871,6 +869,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Mgr. Jiří Bochez, 7. 12. 2025**")
+
 
 
 
