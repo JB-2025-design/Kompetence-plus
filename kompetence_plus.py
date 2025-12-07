@@ -186,7 +186,7 @@ Teprve pak přestane být přijímací řízení bojem o přípravy a stane se t
 """
 ### Od kompetencí ke kompetenčně-znalostnímu modelu: nutná změna paradigmatu v českém vzdělávání
 
-Současná debata o podobě českého kurikula se již několik let opírá o kompetenční model vzdělávání, který se stal východiskem rámcových vzdělávacích programů i návrhů jejich revizí. Kompetence jsou zásadní pro přípravu žáků na proměnlivý svět: mají podporovat samostatné myšlení, řešení problémů, komunikaci, spolupráci, digitální gramotnost a schopnost učit se. Tyto požadavky odpovídají globálním trendům i potřebám společnosti založené na informacích.
+Současná debata o podobě českého kurikula se již dvacet let opírá o kompetenční model vzdělávání, který se stal východiskem rámcových vzdělávacích programů i návrhů jejich revizí. Kompetence jsou zásadní pro přípravu žáků na proměnlivý svět: mají podporovat samostatné myšlení, řešení problémů, komunikaci, spolupráci, digitální gramotnost a schopnost učit se. Tyto požadavky odpovídají globálním trendům i potřebám společnosti založené na informacích.
 
 Nicméně praxe ukazuje, že čistě kompetenční přístup není v českém systému dlouhodobě udržitelný, a to ze dvou hlavních důvodů:
 
@@ -869,6 +869,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
