@@ -419,7 +419,7 @@ Moderní pedagogické užití navazuje na oba významy:
 Zásadní je, že kompetence **nikdy nebyla synonymem obsahu**.  
 Obsah (knowledge) a kompetence (competence) jsou v mezinárodních přístupech **dvě různé, ale propojené dimenze**.
 
-## 2. Původní československé osnovy – dovednosti, vědomosti, návyky
+## 2. Původní osnovy – dovednosti, vědomosti, návyky
 
 Tradiční československé osnovy měly jasnou logiku, která vycházela z didaktiky 20. století:
 
@@ -870,5 +870,7 @@ st.markdown("---")
 
 text = get_content(topic)
 st.markdown(text)
+st.markdown("**Autor: Mgr. Jiří Bochez**")
+
 
 
