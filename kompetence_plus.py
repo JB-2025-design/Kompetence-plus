@@ -392,8 +392,7 @@ Toto je nové, ale zásadní:
 **Aby dítě poznalo, že AI udělala chybu, musí mít vlastní znalostní a gramotnostní rámec.  
 Bez něj je žák – i vysokoškolák – zcela bezbranný.**
 
-Tím se funkční gramotnost stává nejen cílem vzdělávání,  
-ale **základním bezpečnostním prvkem života v 21. století**.
+Tím se funkční gramotnost stává nejen cílem vzdělávání, ale **základním bezpečnostním prvkem života v 21. století**.
 """,
 "Kompetence plus":
 """
@@ -871,4 +870,5 @@ st.markdown("---")
 
 text = get_content(topic)
 st.markdown(text)
+
 
