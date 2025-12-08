@@ -25,8 +25,8 @@ TOPICS = {
     "Systémová chyba": "Systémová chyba",
     "Kompetenčně-znalostní model": "Kompetenčně-znalostní model",
     "Funkční gramotnost": "Funkční gramotnost",
-    "Kompetence plus": "Kompetence plus",
     "Analytický rozbor PISA 2022 v kontextu českého kurikula, kompetencí a AI gramotnosti":"Analytický rozbor PISA 2022 v kontextu českého kurikula, kompetencí a AI gramotnosti",
+    "Kompetence plus": "Kompetence plus",
     "Rodiče": "Rodiče",    
     "Učitelé": "Učitelé",
     "Žáci a studenti": "Žáci a studenti",     
@@ -1636,6 +1636,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
