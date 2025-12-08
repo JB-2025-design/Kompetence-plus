@@ -26,6 +26,7 @@ TOPICS = {
     "Kompetenčně-znalostní model": "Kompetenčně-znalostní model",
     "Funkční gramotnost": "Funkční gramotnost",
     "Kompetence plus": "Kompetence plus",
+    "Analytický rozbor PISA 2022 v kontextu českého kurikula, kompetencí a AI gramotnosti":"Analytický rozbor PISA 2022 v kontextu českého kurikula, kompetencí a AI gramotnosti",
     "Rodiče": "Rodiče",    
     "Učitelé": "Učitelé",
     "Žáci a studenti": "Žáci a studenti",     
@@ -1323,7 +1324,271 @@ Po více než 350 letech se jeho vize znovu stává naléhavou. Dnešní žák n
 - školu jako skutečnou „dílnu lidskosti“.
 
 Komenský není historickým ornamentem české vzdělávací politiky. Je — zcela nečekaně — **přesným inspirátorem kurikula pro 21. století**.
+""",
+
+    "Analytický rozbor PISA 2022 v kontextu českého kurikula, kompetencí a AI gramotnosti": 
 """
+# Analytický rozbor PISA 2022 v kontextu českého kurikula, kompetencí a AI gramotnosti
+
+**Zdroj dat:**  
+Všechna použitá data a grafy pocházejí z 8. odborného panelu IPS DATA – prezentace Ministerstva školství ČR, dostupné na stránce:  
+https://edu.gov.cz/shrnuti-8-odborneho-panelu-ips-data-vysledky-ceskych-zaku-v-setreni-pisa-2022-a-moznosti-rozvoje-jejich-potencialu/
+
+
+## A) Výsledky českých žáků: stabilní, ale se závažnými strukturálními problémy
+
+### Dlouhodobý pokles a stagnace
+
+Z grafů matematické a přírodovědné gramotnosti je patrné:
+
+- 2003–2022: trvalý pokles o ~30 bodů (zhruba půl roku učení).
+- Po roce 2012 dochází ke stagnaci na nižší úrovni, nikoliv k návratu k původním výsledkům.
+- Matematika 2022: 487 bodů.
+- Přírodovědná gramotnost 2022: 499 bodů.
+
+To ukazuje, že český systém nekolabuje – ale nedokáže žáky posouvat nahoru. Málo selhává, ale málo inspiruje.
+
+### Slabší výkon 15letých vs. 4. a 8. ročníků (TIMSS)
+
+TIMSS pravidelně ukazuje, že:
+
+- 4. a 8. ročníky jsou nad průměrem OECD,
+- 15letí žáci (PISA) jsou pod průměrem – dochází k výraznému poklesu.
+
+To znamená:
+
+- problém vzniká mezi 8. a 9. ročníkem a pokračuje na středních školách,
+- systém v pozdější fázi málo kultivuje znalosti, nerozvíjí gramotnosti a už vůbec ne kompetence,
+- výuka je roztříštěná, obsahově přetížená, bez jasných standardů – žáci ztrácejí orientaci, motivaci i výkon.
+
+To přesně potvrzuje náš model: Bez pevného základu (znalosti + gramotnosti) nelze rozvíjet kompetence ani komplexitu.
+
+## B) Extrémní nerovnosti – největší slabina českého školství
+
+### Vliv rodinného zázemí (ESCS) – grafy nerovností
+
+Česko patří mezi 5 nejhorších zemí OECD, pokud jde o závislost výsledků na rodině.
+
+Klíčová fakta:
+
+- 49 % žáků ze socioekonomicky znevýhodněného prostředí nedosahuje ani úrovně 2 – základní funkční gramotnosti.
+- U zvýhodněných je to jen 9 %.
+- Podíl tzv. „odolných žáků“ (ti, kteří se přes znevýhodnění vypracují) je pouze 7 % – druhý nejnižší výsledek v OECD.
+
+### Co tím grafy ukazují v našem kontextu
+
+- české školy neumí vyrovnávat rozdíly, pouze přebírají nerovnost z rodin;
+- výuka není strukturovaná, takže silné děti si pomohou samy – slabé nikoli;
+- chybí standardizace znalostí a gramotností – učitelé často nevědí, „co musí umět každý žák“;
+- bez jasných obsahových kritérií vzniká chaos, který nejvíce zasáhne děti bez domácí podpory.
+
+Náš kompetenčně-znalostní model přesně řeší tento problém:  
+Jasná znalostní minima + měřitelné gramotnosti + definované procesní kompetence = menší role náhody a rodiny.
+
+
+## C) Kvalita vztahů žák–učitel: zásadní pro výkon, v ČR však podprůměrná
+
+### Co ukazují grafy o sounáležitosti a vztazích
+
+Česká republika je téměř nejhorší z OECD v kvalitě vztahů s učiteli.
+
+- Pouze 63 % žáků uvedlo, že je učitelé respektují (OECD: 86 %).
+- Jen 38 % má pocit, že by se o ně učitelé zajímali v těžké situaci.
+- 49 % žáků říká, že učitele zajímá, jak se mají (OECD: 70 %+).
+
+### Proč je to problém
+
+PISA ukazuje jasně:
+
+- dobré vztahy → vyšší výsledky (až +20 bodů),
+- dobré vztahy → nižší matematická úzkost,
+- dobré vztahy → větší motivace, sounáležitost a lepší klima.
+
+Grafy navíc ukazují, že žáci s nejvyšší mírou sounáležitosti mají o 21 bodů lepší výsledky než žáci s nejnižší.
+
+# Proč učitelé nepracují se vztahovou rovinou – skutečná příčina paradoxu RVP
+
+Na první pohled by se mohlo zdát, že čeští učitelé by měli podle RVP pracovat s klimatem, sociálními dovednostmi, vztahy a motivací žáků: rámcový vzdělávací program už dvacet let zdůrazňuje klíčové kompetence, měkké dovednosti, individualizaci i podporující prostředí. Přesto mezinárodní výzkumy (včetně PISA 2022) dlouhodobě ukazují pravý opak – česká škola má jedny z nejslabších vztahů žák–učitel v OECD. Žáci uvádějí nízký pocit zájmu, nízkou podporu a nízkou sounáležitost.  
+
+Proč? Pokud na úrovni politiky deklarujeme kompetence, proč se neprojevují v praxi?
+
+Skutečná odpověď je jednoduchá: **RVP deklarovalo změnu, ale nevytvořilo podmínky pro její implementaci.**  
+Kompetenční model je jen napsaný v dokumentu; nevstoupil do praxe. Realita škol je nastavena tak, aby rozvoj vztahů byl téměř nemožný.
+
+## 1. Kompetence existují jen „na papíře“, nikoli ve standardech, nástrojích ani výuce  
+
+RVP sice vyhlásilo změnu, ale:
+
+- nevznikly standardy, co má dítě skutečně umět,
+- neexistuje úroveň minimálního výkonu pro jednotlivé kompetence,
+- nejsou vytvořené žádné diagnostické nástroje,
+- učitelé nedostali metodiky ani podporu pro pedagogickou práci s kompetencemi,
+- inspekce nikdy netlačila na procesní dovednosti, jen na formální dokumenty.
+
+Kompetence se tak staly **abstraktním ideálem, ne didaktickým nástrojem**.  
+Ve skutečnosti je česká škola dál řízena skrytým kurikulem, které je založeno na znalostech, učivu a jejich přenosu. V takovém nastavení „měkké kompetence“ a vztahy přirozeně mizí — nejsou uchopitelné, nejsou měřitelné, nejsou požadované, nejsou vyžadované.
+
+## 2. Skryté kurikulum zůstalo encyklopedické  
+
+RVP formálně redukovalo učivo, ale realita redukovaná není:
+
+- učebnice zůstaly přetížené,
+- přijímací zkoušky ověřují znalosti, nikoli kompetence,
+- maturita je obsahová,
+- většina školních testů zůstává memorovací,
+- rodiče očekávají „toho hodně“,
+- učitelé hodnotí hlavně reprodukci.
+
+Tlak na výkon → tlak na tempo → tlak na obsah → **nulový čas na vztahy**.
+
+Ve chvíli, kdy musí učitel „stihnout kapitolu“, je vztah první věc, která jde stranou.
+
+## 3. Učitelé nemají didaktické nástroje pro práci se vztahem  
+
+Pedagogické fakulty 15 let připravovaly učitele skoro výhradně na oborovost a teorii didaktiky, ale ne na:
+
+- řízení třídy,
+- socio-emocionální učení,
+- práci s klimatem,
+- budování důvěry,
+- prevenci úzkosti a konfliktů,
+- psychologii skupiny.
+
+Vztahová rovina není intuice. Je to **profesní dovednost**, kterou je třeba učit – tak jako učíme matematiku nebo gramatiku. Český systém ji však nikdy systematicky neučil.  
+
+Učitelé vztah nezanedbávají proto, že by nechtěli – ale protože **k tomu nebyli vycvičeni, vybaveni ani vedeni**.
+
+## 4. Velké třídy a nedostatek podpůrného personálu práci s klimatem znemožňují  
+
+Česko má jedny z největších tříd v Evropě a jeden z nejnižších podílů školních psychologů, speciálních pedagogů a asistentů. Učitelé běžně pracují:
+
+- ve třídách o 25–32 žácích,
+- s několika integrovanými žáky,
+- s dětmi s úzkostmi, poruchami chování, nepozorností,
+- bez podpory dalšího profesionála.
+
+Za těchto podmínek je **vztahová práce fakticky neproveditelná** – ne proto, že by byla nedůležitá, ale proto, že je zastíněna elementární potřebou zvládnout skupinu, obsah a organizaci.
+
+## 5. Administrativní a projektová zátěž ubírá energii i čas  
+
+Čeští učitelé patří mezi nejzatíženější administrativou v EU. Tráví hodiny:
+
+- vyplňováním dokumentace pro inspekci,
+- papírováním kolem podpůrných opatření,
+- projektovou administrativou,
+- přípravou výkazů,
+- vedením povinných formulářů.
+
+Práce se vztahem vyžaduje čas a pozornost — obojí však systém učitelům bere.
+
+## 6. V systému chybí profesní norma, že vztah je součást výkonu  
+
+Ve Finsku, Kanadě či Nizozemsku je práce s klimatem:
+
+- sledována inspekcí,
+- součástí profesního standardu,
+- explicitně popsaná ve výstupech,
+- podporovaná metodicky i finančně.
+
+V ČR není:
+
+- popsána,
+- ověřována,
+- odměňována,
+- hodnocena,
+- systematicky trénována.
+
+Co není profesní norma → **neexistuje v praxi**.
+
+## Tedy: Učitelé vztah nezanedbávají — systém jim brání v tom, aby ho mohli dělat  
+
+Formálně deklarujeme kompetenční model, inkluzi a podporující klima.  
+Reálně ale provozně jedeme encyklopedický, znalostní a obsahově přetížený model z minulého století.  
+
+Učitelé nepracují se vztahovou rovinou ne proto, že by nechtěli, ale proto, že:
+
+- nemají standardy, nástroje ani trénink,
+- nemají čas, podporu ani systém,
+- jsou zahlceni obsahem, administrativou a velkými třídami,
+- a jsou tlačeni k výkonům, které jdou proti vztahové práci.
+
+Právě proto je třeba model, který staví na čtyřech úrovních:  
+**Znalosti → Gramotnosti → Kompetence → Komplexita**, doplněný o jasné standardy, strukturu a AI gramotnost.
+
+Tento model řeší přesně to, co českému školství chybí:  
+**řád, strukturu, měřitelnost, obsahové ukotvení a učitele jako lídra učení.**
+Náš model říká: Kompetence jsou proces – a jejich základní podmínkou je bezpečný vztah a řízené učení.  
+
+## D) Narůstající podíl slabých žáků 
+
+Podíl žáků „pod úrovní 2“ v matematické gramotnosti se zvýšil:
+
+- 2003: 17 %
+- 2015: 21 %
+- 2022: 26 %
+
+Každý čtvrtý žák nedosahuje funkční matematické gramotnosti. Graf navíc ukazuje silnou expanzi nejnižších úrovní 1a a pod úroveň 1.
+
+### Co to znamená pro české školství
+
+Systém nezajišťuje minimální znalostní a gramotnostní standard. Bez těchto základů děti:
+
+- nedokážou odvozovat,
+- neumějí řešit reálné úlohy,
+- nedokážou pracovat se složitějšími texty či daty,
+- nejsou schopné kriticky používat AI.
+
+Tento trend není náhodný – odpovídá tomu, že české kurikulum má:
+
+- vágní kompetence,
+- nejasné výstupy,
+- nekonzistentní hodnocení,
+- přetížené učivo,
+- žádné standardy minimálního výkonu.
+
+Náš kompetenčně-znalostní model navrhuje: Znalostní minimum (jasné), gramotnostní úroveň (měřitelná), kompetence (proces), komplexita (aplikace).  
+
+To je nástroj proti zhoršování výsledků.
+
+## Všechny grafy potvrzují jednu věc: český systém nemá jasnou strukturu
+
+Problémy, které se opakují napříč daty:
+
+- stagnace výkonu,
+- vysoké nerovnosti,
+- slabé vztahy učitel–žák,
+- růst podílu nejslabších žáků,
+- nízká motivace a sebevědomí,
+- propad obliby matematiky (73 % → 44 % mezi 4. a 8. ročníkem).
+
+### Hlavní příčina
+
+Chybějící spojení mezi:
+
+- znalostmi,
+- gramotnostmi,
+- kompetencemi,
+- komplexními úlohami,
+- jasnými standardy.
+
+Český systém učí hodně, ale neuspořádaně.  
+Učitelé pracují poctivě, ale bez opor a jednotných rámců.  
+Žáci jsou zahlceni obsahem, ne strukturou.  
+AI a digitální prostředí zvýrazňuje chyby, které systém dlouhodobě přehlížel.
+
+## Závěrečný vhled – přímé napojení na náš model
+
+Všechny grafy – bez výjimky – ukazují, že ČR potřebuje:
+
+1. **Znalostní minimum** – jasné, stručné, přenositelné „co má umět každý“.
+2. **Gramotnostní rámec** – aplikace znalostí v textech, datech, grafech a úlohách.
+3. **Procesní kompetence** – modelování, argumentace, ověřování, kontrola, plánování.
+4. **Komplexitu** – úlohy, projekty, mezioborové problémy.
+5. **AI gramotnost jako nový „test reality“** – žák bez základních gramotností nedokáže AI používat, pouze kopíruje její chyby.
+6. **Učitele jako lídry** – učitel potřebuje strukturu, jasné cíle, jednoduché standardy, jednotné hodnocení a profesní podporu.
+"""
+
+
 
 
 
@@ -1371,6 +1636,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
