@@ -985,7 +985,9 @@ Tento rozpor lze překonat jen tehdy, když:
 
 Teprve pak bude možné hodnotit děti spravedlivě, srozumitelně a moderně.
 """,
-"AI gramotnost jako nová součást vzdělávacího paradigmatu": """
+    
+"AI gramotnost jako nová součást vzdělávacího paradigmatu": 
+"""
 # AI gramotnost jako nová součást vzdělávacího paradigmatu
 
 Umělá inteligence je dnes prostředím, se kterým se žáci setkávají dříve než se složitější matematikou, literární teorií nebo fyzikou. Schopnost pracovat s AI není luxusní nadstavbou – přímo navazuje na čtenářskou, matematicko-logickou a přírodovědnou gramotnost. 
@@ -1122,10 +1124,6 @@ Je nezbytná, chcete-li, aby žáci byli uživateli AI – **ne jejími oběťmi
 """
 
 
-"""
-
-
-
 }
 
 # -----------------------
@@ -1170,6 +1168,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
