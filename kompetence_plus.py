@@ -30,6 +30,7 @@ TOPICS = {
     "Učitelé": "Učitelé",
     "Žáci a studenti": "Žáci a studenti",     
     "Slovní hodnocení": "Slovní hodnocení",
+    "AI gramotnost jako nová součást vzdělávacího paradigmatu":"AI gramotnost jako nová součást vzdělávacího paradigmatu"
         
 }
 
@@ -905,7 +906,7 @@ a zároveň hodnotí obsahové i procesní kompetence v rámci každého předm�
 
 Tento model řeší hlavní problém českého kurikula: kompetence existují, ale nejsou k ničemu připojené. Výsledkem je roztříštěnost výuky, nejednotné hodnocení a neschopnost popsat výkon žáka přesně.
 
-Nový model staví na jasně definované vertikále čtyř úrovní:
+Nový model pro střední školy staví na jasně definované vertikále čtyř úrovní:
 
 1. ZNALOSTI (Knowledge) – základní úroveň
 
@@ -983,8 +984,145 @@ Tento rozpor lze překonat jen tehdy, když:
 - a učivo bude mít jasné standardy.
 
 Teprve pak bude možné hodnotit děti spravedlivě, srozumitelně a moderně.
+""",
+"AI gramotnost jako nová součást vzdělávacího paradigmatu": """
+# AI gramotnost jako nová součást vzdělávacího paradigmatu
+
+Umělá inteligence je dnes prostředím, se kterým se žáci setkávají dříve než se složitější matematikou, literární teorií nebo fyzikou. Schopnost pracovat s AI není luxusní nadstavbou – přímo navazuje na čtenářskou, matematicko-logickou a přírodovědnou gramotnost. 
+
+Mezinárodní rámce, včetně připravovaných standardů PISA 2029 pro AI Literacy, považují AI gramotnost za klíčovou schopnost, bez níž není možné rozvíjet komplexní kompetence pro 21. století.
+
+## Co je gramotnost v oblasti AI?
+
+AI gramotnost **není** „umět používat aplikace“.  
+Stejně jako čtenářská gramotnost není jen čtení písmen a matematická gramotnost není jen počítání, AI gramotnost není jen psaní promptů.
+
+Podle PISA 2029 zahrnuje tři hlavní oblasti:
+
+### A) Porozumět
+- co je model, algoritmus, tréninková data, předpojatost, halucinace, pravděpodobnostní výstup,  
+- jak vznikají chyby AI a proč jsou přesvědčivé,  
+- že AI negarantuje správnost ani pravdivost.
+
+### B) Používat
+- umět zadat úkol tak, aby měl smysl,  
+- umět ověřit výstup (zejména čísla, grafy, tvrzení),  
+- porovnat více zdrojů (AI není jediný autoritativní zdroj).
+
+### C) Kriticky vyhodnotit (kritická kontrola)
+- poznat, že AI udělala chybu,  
+- rozlišit fakt, tvrzení a domněnku,  
+- nenechat se zmást sebevědomým tónem chybných výstupů.
+
+AI gramotnost je tedy schopnost AI **rozumět, používat ji a kriticky hodnotit** – bezpečně, eticky a vědomě.
+
+## AI gramotnost stojí na základu, ne na technologiích
+
+Z předběžné analýzy PISA-AI 2029 vyplývá klíčový závěr:
+
+> **Žáci s nízkou čtenářskou a matematickou gramotností nedokážou AI efektivně použít – protože nerozeznají chybu.**
+
+AI tak paradoxně prohlubuje nerovnosti:  
+slabší žáci pouze reprodukují chyby, silnější žáci AI využívají k hlubšímu porozumění.
+
+To potvrzuje model:
+
+- **Znalosti** – bez pojmového rámce žák nepozná nesmysl.  
+- **Gramotnosti** – bez čtení, práce s daty a grafy nelze nic ověřit.  
+- **Kompetence** – bez argumentace, plánování a kontroly nelze AI použít smysluplně.  
+- **Komplexita** – teprve zde AI skutečně pomáhá (simulace, modelování problémů).
+
+AI gramotnost tedy není „další předmět“, ale **průřezová vrstva spojující všechny úrovně modelu**.
+
+## Vědomosti – dovednosti – postoje (návyky)
+Triáda OECD *knowledge–skills–attitudes* odpovídá českému členění:
+
+**Vědomosti – dovednosti – postoje (návyky).**
+
+### 1. Vědomosti (Knowledge): Co žák ví o AI
+- jak fungují modely (vzory v datech, ne myšlení),  
+- odkud se berou tréninková data,  
+- co je halucinace a proč vzniká,  
+- rozdíl mezi generativní AI a vyhledáváním,  
+- riziko zaujatosti (bias) nebo chybných závěrů.
+
+To jsou základní orientační informace, nikoli informatické podrobnosti.  
+Bez nich nelze žádný výstup ověřit.
+
+### 2. Dovednosti (Skills): Co žák dokáže s AI udělat
+- formulovat dotaz přesně a jednoznačně,  
+- ověřit výstup (jednotky, operace, logika),  
+- rozpoznat chybu a pokusit se ji opravit,  
+- interpretovat graf, tabulku nebo kód vytvořený AI,  
+- používat AI jako nástroj učení, ne jako náhradu myšlení.
+
+### 3. Postoje / návyky (Attitudes): Jak žák přistupuje k AI
+- zvyk ověřovat informace,  
+- porozumění rizikům (bezpečnost, manipulace),  
+- schopnost odhalit dezinformaci, i když vypadá věrohodně,  
+- odpovědné používání AI při učení,  
+- ochota přemýšlet o hranicích automatizace.
+
+Tyto návyky nejsou „měkké“.  
+Jsou to **praktické bezpečnostní postoje**, bez nichž AI žákovi škodí.
+
+## AI gramotnost jako chybějící vrstva v českém kurikulu
+
+AI gramotnost se přirozeně hodí do čtyřstupňového rámce:
+
+**Znalosti → Gramotnosti → Kompetence → Komplexita**
+
+V českém RVP však zatím chybí:
+
+- explicitní zmínka o AI,  
+- jasná definice dovedností práce s AI,  
+- kritéria bezpečného a odpovědného používání,  
+- napojení na procesní kompetence (modelování, interpretace, argumentace).
+
+Bez jasného obsahu není možné kompetence měřit, popisovat ani hodnotit.
+
+## Co lze čekat od výsledků PISA-AI 2029
+
+### 1) Silní čtenáři → nejlepší uživatelé AI
+- ověřují tvrzení,  
+- odhalují chyby,  
+- kombinují AI s vlastní prací.
+
+### 2) Slabší čtenáři → nejohroženější skupina
+- přebírají odpovědi bez kontroly,  
+- nerozumí logice ani faktům.
+
+### 3) Matematicky silní žáci
+- rozpoznají nesmyslné grafy či výpočty,  
+- posoudí realističnost výsledku.
+
+### 4) Slabší matematická gramotnost = slepá důvěra
+- neumí odhadnout chybu,  
+- přehlížejí falešné vzorce i nesprávné jednotky.
+
+## Co z toho plyne pro vzdělávání
+
+### Základní závěry:
+1. **Bez znalostí není AI gramotnost.**  
+2. **Bez gramotností není kontrola AI.**  
+3. **Bez kompetencí není smysluplná práce s AI.**  
+4. **Bez komplexity není reálné učení.**
+
+AI se dá využít pro simulace, modely a projekty –  
+ale jen tehdy, pokud žák rozumí samotnému problému.
+
+## Závěr
+
+AI gramotnost vrací do popředí to, co škola vždy měla učit:  
+**přemýšlet správně, přesně a odpovědně.**
+
+Je to nová součást vzdělávacího paradigmatu, která propojuje všechny složky:  
+znalosti, gramotnosti, kompetence i komplexitu.  
+Je nezbytná, chcete-li, aby žáci byli uživateli AI – **ne jejími oběťmi**.
 """
 
+
+"""
 
 
 
@@ -1032,6 +1170,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
