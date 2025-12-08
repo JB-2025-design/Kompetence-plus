@@ -881,7 +881,7 @@ Teprve tehdy zmizí paradox, o kterém dnes všichni víme, ale který nikdo dos
 ### Obsahové oblasti – 4. třída
 ## Procesní kompetence × Obsah učiva (4. ročník)
 
-| **Obsah učiva / Procesní kompetence** | **Čísla a operace do 10 000** | **Jednoduché závislosti** | **Geometrie** | **Data a grafy** |
+| **Obsah učiva / Procesní kompetence** | **Čísla a operace do 1 000 000** | **Jednoduché závislosti** | **Geometrie** | **Data a grafy** |
 |---------------------------------------|-------------------------------|----------------------------|----------------|------------------|
 | **ZNÁZORNIT / MODELOVAT** | **Proces:** Žák převede slovní úlohu na příklad (např. „Máme 2450 Kč a utratíme 670 Kč…“ → 2450 − 670). **Výsledek:** Model odpovídá situaci; nejsou zaměněna čísla ani operace. | **Proces:** Žák vytvoří tabulku vztahu (např. počet balíčků – počet sušenek). **Výsledek:** Tabulka odpovídá pravidlu („1 balíček = 5 sušenek“). | **Proces:** Žák nakreslí obdélník podle popisu, vyznačí strany a pravoúhlé rohy. **Výsledek:** Model odpovídá zadání – strany jsou správné, tvar je obdélník. | **Proces:** Žák zakreslí jednoduchý sloupcový graf podle dat. **Výsledek:** Osové hodnoty i výška sloupců odpovídají údajům. |
 | **POČÍTAT / PROVÁDĚT OPERACE** | **Proces:** Žák postupuje podle algoritmu (písemné sčítání, odčítání, násobení). **Výsledek:** Výpočet je správný (např. 367 + 458 = 825). | **Proces:** Žák doplní chybějící hodnoty podle pravidla (řada o 100, násobky 5). **Výsledek:** Všechny hodnoty odpovídají danému vztahu. | **Proces:** Žák vypočítá obvod obdélníku podle vzorce O = 2·(a + b). **Výsledek:** Výsledek odpovídá správnému výpočtu a jednotkám (např. cm). | **Proces:** Žák spočítá četnosti nebo porovná dvě hodnoty v tabulce. **Výsledek:** Výsledky přesně odpovídají datům. |
@@ -1032,6 +1032,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
