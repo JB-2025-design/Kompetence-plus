@@ -30,7 +30,8 @@ TOPICS = {
     "Učitelé": "Učitelé",
     "Žáci a studenti": "Žáci a studenti",     
     "Slovní hodnocení": "Slovní hodnocení",
-    "AI gramotnost jako nová součást vzdělávacího paradigmatu":"AI gramotnost jako nová součást vzdělávacího paradigmatu"
+    "AI gramotnost jako nová součást vzdělávacího paradigmatu":"AI gramotnost jako nová součást vzdělávacího paradigmatu",
+    "Komenského vize jako základ kompetenčně-znalostního modelu pro 21. století": "Komenského vize jako základ kompetenčně-znalostního modelu pro 21. století"
         
 }
 
@@ -1121,7 +1122,209 @@ AI gramotnost vrací do popředí to, co škola vždy měla učit:
 Je to nová součást vzdělávacího paradigmatu, která propojuje všechny složky:  
 znalosti, gramotnosti, kompetence i komplexitu.  
 Je nezbytná, chcete-li, aby žáci byli uživateli AI – **ne jejími oběťmi**.
+""",
+
+    "Komenského vize jako základ kompetenčně-znalostního modelu pro 21. století": 
 """
+# Komenského vize jako základ kompetenčně-znalostního modelu pro 21. století
+
+Strategie vzdělávací politiky ČR do roku 2030+ se vědomě vrací k odkazu Jana Amose Komenského — nejen jako k symbolickému zdroji, ale jako ke skutečnému metodickému základu. Komenský ve svých textech formuloval soubor principů, které dnes znovu nabývají významu, protože přesně odpovídají na problémy současného kurikula: roztříštěnost, vágnost kompetencí, přetížení obsahu, nejasné hodnocení a ztrátu orientace ve světě rychlých změn a umělé inteligence.
+
+Komenského myšlenky lze systematizovat do čtyř oblastí, které překvapivě přesně kopírují moderní rámec:
+
+**Znalosti – Gramotnosti – Kompetence – Komplexita.**
+
+## 1. Účel vzdělávání: Člověk se stává člověkem vzděláním
+
+> „Má-li se člověk stát člověkem, musí se vzdělat.“  
+> „Škola je dílna lidskosti…“  
+> „Všichni na jednom jevišti velikého světa stojíme…“
+
+Pro Komenského je vzdělání procesem formování člověka — nikoli jen nabíráním informací. Vzdělaný člověk má být připraven rozumět světu, jednat v něm moudře a sloužit společnosti. To přesně odpovídá dnešnímu pojetí kompetencí, které nejsou cílem samy o sobě, ale jsou cestou k odpovědnému jednání, spolupráci a občanskému životu.
+
+Dnešní doba k tomu přidává nový rozměr: orientaci v prostředí digitalizace, algoritmů a umělé inteligence. I zde Komenský rezonuje překvapivě přesně:
+
+> „Cílem vzdělání a moudrosti je, aby člověk viděl před sebou jasnou cestu života, po ní opatrně vykračoval, pamatoval na minulost, znal přítomnost a předvídal budoucnost.“
+
+To je velmi blízké dnešní AI gramotnosti: umět rozpoznat rizika, předvídat důsledky, ověřovat informace a chápat mechanismy digitálního světa.
+
+## 2. Učení má být smysluplné, užitečné a opřené o pevné znalosti
+
+> „Nic není marnějšího než vědět a učit se mnoho, totiž co nepřinese užitku.“  
+> „Moudrý není ten, kdo ví mnoho věcí, nýbrž ten, kdo ví užitečné věci.“  
+> „Práci škol usnadníme, vynecháme-li věci nikoli potřebné, nepříslušné, přílišné podrobnosti.“
+
+Komenský kritizuje to, co kritizujeme i dnes: přeplněné osnovy, roztříštěnost obsahu a zahlcení dětí balastem. Znalosti mají být:
+
+- výběrové,  
+- jasné,  
+- užitečné,  
+- propojené,  
+- měřitelné.
+
+To je přesně role znalostí v moderním čtyřstupňovém modelu: tvoří základ, bez kterého nelze rozvíjet gramotnosti ani kompetence, a zároveň musí být redukované na to, co je skutečně nutné.
+
+Komenský by dnešní RVP pravděpodobně kritizoval podobnými slovy jako v 17. století: mnoho „papírů“, nejasnost, chaos, podrobnosti bez účelu:
+
+> „Ten zvyk trousit do obecenstva podle libé vůle jakékoli papíry musí naprosto přestat, jakožto pařeniště všeho zmatku.“
+
+## 3. Učitel jako vedoucí učení, nikoli pasivní „průvodce“
+
+> „Posláním od začátku do konce budiž hledati způsob, aby učitelé méně učili, žáci se však více naučili…“  
+> „Naši učitelé nesmějí být podobni sloupům u cest, které ukazují, kam jít, ale samy nejdou.“
+
+V posledních letech se v české debatě zabydlelo zjednodušené heslo: *učitel má být průvodce*. Často je však vykládáno tak, že učitel má pouze sledovat zájmy žáků, poskytovat jim prostor a být spíše nenápadným moderátorem. Tento výklad je nejen neúplný, ale odporuje jak pedagogickému výzkumu, tak i samotnému odkazu Jana Amose Komenského.
+
+Komenský učitele nikdy nechápal jako pozorovatele či facilitátora. Naopak — učitel je podle něj **vedoucí učení**, člověk, který:
+
+- organizuje učení,  
+- staví jasnou strukturu,  
+- určuje směr,  
+- odlišuje podstatné od nepodstatného,  
+- vyžaduje vytrvalost, přesnost a myšlení,  
+- je osobním vzorem práce, kultivovanosti a charakteru.
+
+Věta: > „…aby učitelé méně učili, žáci se však více naučili…“ neznamená menší roli učitele, ale **efektivnější roli**: méně mluvení, více řízené, smysluplné činnosti.
+
+> „Naši učitelé nesmějí být podobni sloupům u cest…“
+
+Učitel nemá stát stranou. Má jít první a ukazovat cestu vlastním krokem.
+
+Moderní didaktika to potvrzuje: učení je účinné tehdy, když je řízené odborníkem, nikoli ponechané samo sobě. Učitel je vedoucí, který:
+
+- volí cíle, důraz a posloupnost,  
+- udržuje úroveň náročnosti,  
+- vysvětluje strategie a myšlenkové postupy,  
+- poskytuje okamžitou zpětnou vazbu,  
+- kultivuje jazyk, myšlení a argumentaci,  
+- nese odpovědnost za růst každého dítěte.
+
+To je zásadní rozdíl proti chápání učitele jako „průvodce zájmů“. Dětské zájmy jsou důležité, ale samy o sobě neuvedou žáka do světa komplexity, matematiky, logiky, přírodovědných zákonů, etiky ani technologie.
+
+**Učitel jako vedoucí** zajišťuje, že se dítě dostane tam, kam by se samo nedostalo. Dává mu oporu, systém, korekci a základní kulturní i věcné rámce. To je ještě důležitější ve světě umělé inteligence: dítě nemusí vědět, co je pro jeho učení rozhodující. Učitel to ví — a jeho vedení brání tomu, aby se žák stal pouhým příjemcem povrchních informací.
+
+Dobrý učitel proto není jen „průvodce“, ale **architekt učení, manažer třídy a lídr**, který vede děti nahoru — krok za krokem, jistě a bezpečně. Tato role je nezastupitelná v kompetenčně-znalostním modelu i v době AI.
+
+## 4. Vzdělání musí být trvalé, hluboké a zakotvené v realitě
+
+> „Dosáhnout, aby každý, kdo je vzděláván, byl vzdělán natrvalo…“  
+> „Neboť lidé, rostou-li bez vzdělání, rostou jako plané stromy, jako trní, kopřivy a hloží…“  
+> „Ve hře se dá hodně naučit, co poté bude použito, když to okolnosti budou vyžadovat.“  
+> „Teorie zůstane pouhou teorií, pokud nepřikročíme k činu.“
+
+Trvalé vzdělání nevzniká učením nazpaměť. Vzniká:
+
+- aktivním modelováním,  
+- řešením úloh,  
+- procvičováním v různých kontextech,  
+- používáním znalostí v hrách, projektech, simulacích, datových úlohách,  
+- propojením teorie s praxí.
+
+To je přesně logika **komplexity**: žáci musí umět kombinovat znalosti, využívat gramotnosti a aplikovat kompetence v realistických situacích, které nejsou jednoznačné. Komenský by nejspíš dnešní digitální simulace, AI nástroje, robotiku a projektovou výuku považoval za ideální nástroje „učení činem“.
+
+## 5. Vzdělávací reforma musí být systémová a propojená
+
+> „Má-li být však náprava úspěšná, musí být komplexní a všestranná, neboť nebude-li současně napravovat všechno, co vzájemně souvisí, nikdy se nedostanete kupředu…“  
+> „Co máš udělat, do toho se dej s chutí; co sám můžeš udělat, to nečekej od jiných… Když můžeš někomu pomoci, učiň to s největší radostí.“
+
+Komenský míří na jádro problému českého školství: reforma není možná po částech. Nestačí měnit jen hodnocení, jen obsah, jen digitální dovednosti nebo jen učebnice. Všechno se musí měnit současně, protože:
+
+- kompetence bez znalostí jsou prázdné,  
+- znalosti bez gramotností jsou nepoužitelné,  
+- gramotnosti bez kompetencí jsou mechanické,  
+- kompetence bez komplexity nejsou skutečnou přípravou na svět,  
+- slovní hodnocení bez standardů je nečitelné,  
+- AI bez kritického myšlení je hrozbou, ne pomocí.
+
+Komenský by zřejmě řekl, že současné české školství zůstává „na půli cesty“, protože chybí jednotící rámec. A právě **kompetenčně-znalostní model**, který propojuje:
+
+**Znalosti – Gramotnosti – Kompetence – Komplexitu,** je odpovědí na tuto potřebu.
+
+## Co by si Komenský myslel o výuce matematiky a jazyka dnes
+
+### Matematika
+
+Komenský by pravděpodobně řekl:
+
+> „Matematika je řád stvoření. Učí mysl nepodléhat zmatku.“
+
+Pro něj byla matematika vzorem jasnosti — učí přesnosti, řádu a rozlišování, tedy základním vlastnostem rozumu. Dnes by patrně zdůraznil, že:
+
+- matematika nemá být jen počítání výsledků, ale učení postupům, odůvodnění a pochopení;  
+- dítě má vědět, **proč** je výsledek správný, ne jen **že** je;  
+- výuka má směřovat k užitečným, obecným a přenositelným postupům;  
+- každá úloha má vést k pochopení podstaty problému, ne jen k povrchnímu algoritmu.
+
+Jeho věta: > „Nic není marnějšího než vědět a učit se mnoho, totiž co nepřinese užitku.“ dnes dokonale sedí na řady mechanických příkladů bez kontextu. Komenský by pravděpodobně řekl:
+
+- učte méně příkladů,  
+- ale učte je důkladně,  
+- aby každý žák rozuměl, ne jen počítal.
+
+V dnešní terminologii by podporoval model:
+
+**Znalosti → Gramotnosti → Kompetence → Komplexita**,  
+kde matematická gramotnost (modelování, interpretace, kontrola výsledku) spojuje přesnost, praktické užití a jasný rozum.
+
+### Jazyk
+
+> „Jazyk je nástroj lidskosti. Kdo neumí slovo, nerozumí světu.“ 
+
+Pro Komenského byl jazyk, zejména mateřský, základem veškerého vzdělání. Prosazoval učení jazykům od nejjednoduššího k nejsložitějšímu, skrze jasné texty, skutečné věci a praktické situace.
+
+Dnes by pravděpodobně řekl, že:
+
+- učení jazyka má vycházet z porozumění, ne z pouhého memorování definic;  
+- dítě má číst skutečné texty a umět o nich mluvit;  
+- gramatika je nástroj, ne cíl — bez ní však jazyk ztrácí strukturu;  
+- výuka jazyka má vést k přesnému vyjadřování a kultivovanému myšlení.
+
+Jeho obraz „školy jako dílny lidskosti“ by se vztahoval i ke komunikaci:
+
+> „Škola je dílna lidskosti, kdež lidé mladí a suroví bývají ku přijetí plných pravých obrysů vzdělávání…“
+
+V dnešní řeči:
+
+- dítě, které nerozumí textu, neroste,  
+- dítě, které neumí vyjádřit myšlenku, nemůže myslet složitě,  
+- dítě, které neumí kriticky číst, je vydáno napospas manipulaci i umělé inteligenci.
+
+Jazyk pro něj není „měkký předmět“. Je to základ všech kompetencí.
+
+## Komenský a kompetenčně-znalostní model: přehled
+
+| Komenského princip                     | Dnešní pojem                            |
+|----------------------------------------|------------------------------------------|
+| Řád, jasnost, postup                   | Znalosti a dovednosti                    |
+| Užitečnost, propojenost, praktické učení | Gramotnosti                            |
+| Rozum, úsudek, vedené myšlení          | Kompetence                               |
+| Realistické, smysluplné úlohy          | Komplexita                               |
+
+A dodal by:
+
+> „Teorie zůstane pouhou teorií, pokud nepřikročíme k činu.“
+
+Tedy: není třeba jen přepisovat RVP. Je třeba dát školám:
+
+- jasné standardy,  
+- oporu a strukturu,  
+- a učitele, kteří **vedou**.
+
+## Závěr: Komenský jako průvodce do éry AI a komplexity
+
+Když Komenský psal o „jasné cestě života“, neměl na mysli seznam učiva, ale schopnost člověka zorientovat se v nejasném světě, jednat moudře a obstát v situacích, které nejsou předvídatelné.
+
+Po více než 350 letech se jeho vize znovu stává naléhavou. Dnešní žák nežije v době knih, ale v době umělé inteligence, dat a neustálých změn. A přesto potřebuje totéž, co popsal Komenský:
+
+- pevné znalosti,  
+- schopnost používat je v kontextech,  
+- moudré a odpovědné jednání,  
+- propojené vzdělávání,  
+- školu jako skutečnou „dílnu lidskosti“.
+
+Komenský není historickým ornamentem české vzdělávací politiky. Je — zcela nečekaně — **přesným inspirátorem kurikula pro 21. století**.
+"""
+
 
 
 }
@@ -1168,6 +1371,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
