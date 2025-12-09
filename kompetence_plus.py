@@ -1331,11 +1331,11 @@ Komenský není historickým ornamentem české vzdělávací politiky. Je — z
 # Analytický rozbor PISA 2022 v kontextu českého kurikula, kompetencí a AI gramotnosti
 
 **Zdroj dat:**  
-text = """
-Všechna použitá data a grafy pocházejí z 8. odborného panelu IPS DATA – prezentace MŠMT.
-[Odkaz na zdroj](https://edu.gov.cz/shrnuti-8-odborneho-panelu-ips-data-vysledky-ceskych-zaku-v-setreni-pisa-2022-a-moznosti-rozvoje-jejich-potencialu/)
-"""
-st.markdown(text)
+st.markdown(
+    'Všechna použitá data a grafy pocházejí z 8. odborného panelu IPS DATA – prezentace MŠMT. '
+    '<a href="https://edu.gov.cz/shrnuti-8-odborneho-panelu-ips-data-vysledky-ceskych-zaku-v-setreni-pisa-2022-a-moznosti-rozvoje-jejich-potencialu/" target="_blank">Odkaz na zdroj</a>',
+    unsafe_allow_html=True
+)
 
 ## A) Výsledky českých žáků: stabilní, ale se závažnými strukturálními problémy
 
@@ -1638,6 +1638,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
