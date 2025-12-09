@@ -32,7 +32,8 @@ TOPICS = {
     "Žáci a studenti": "Žáci a studenti",     
     "Slovní hodnocení": "Slovní hodnocení",
     "AI gramotnost jako nová součást vzdělávacího paradigmatu":"AI gramotnost jako nová součást vzdělávacího paradigmatu",
-    "Komenského vize jako základ kompetenčně-znalostního modelu pro 21. století": "Komenského vize jako základ kompetenčně-znalostního modelu pro 21. století"
+    "Komenského vize jako základ kompetenčně-znalostního modelu pro 21. století": "Komenského vize jako základ kompetenčně-znalostního modelu pro 21. století",
+    "Hierarchie pojmů a kompetenčních úrovní": "Hierarchie pojmů a kompetenčních úrovní": 
         
 }
 
@@ -1330,8 +1331,7 @@ Komenský není historickým ornamentem české vzdělávací politiky. Je — z
 """
 # Analytický rozbor PISA 2022 v kontextu českého kurikula, kompetencí a AI gramotnosti
 
-**Zdroj dat:**  
-Všechna použitá data a grafy pocházejí z 8. odborného panelu IPS DATA z 20. 11. 2025 – prezentace Ministerstva školství ČR, dostupné na stránce: https://edu.gov.cz/shrnuti-8-odborneho-panelu-ips-data-vysledky-ceskych-zaku-v-setreni-pisa-2022-a-moznosti-rozvoje-jejich-potencialu/
+**Zdroj dat:** Všechna použitá data a grafy pocházejí z 8. odborného panelu IPS DATA, který se konal 20. 11. 2025. [Prezentace MŠMT](https://edu.gov.cz/shrnuti-8-odborneho-panelu-ips-data-vysledky-ceskych-zaku-v-setreni-pisa-2022-a-moznosti-rozvoje-jejich-potencialu/).
 
 ## A) Výsledky českých žáků: stabilní, ale se závažnými strukturálními problémy
 
@@ -1584,12 +1584,200 @@ Všechny grafy – bez výjimky – ukazují, že ČR potřebuje:
 4. **Komplexitu** – úlohy, projekty, mezioborové problémy.
 5. **AI gramotnost jako nový „test reality“** – žák bez základních gramotností nedokáže AI používat, pouze kopíruje její chyby.
 6. **Učitele jako lídry** – učitel potřebuje strukturu, jasné cíle, jednoduché standardy, jednotné hodnocení a profesní podporu.
+""",
+
+
+"Hierarchie pojmů a kompetenčních úrovní": 
 """
+# KAPITOLA: Hierarchie pojmů a kompetenčních úrovní ve vzdělávání a v matematice
 
+Proces kurikulárního řízení v gymnáziu využívá dvě hierarchie pojmů, které spolu sice souvisejí, 
+ale vycházejí z odlišných úrovní abstrakce. Aby byla výuka konzistentní, je nutné jasně rozlišit 
+obecný vzdělávací kompetenční rámec (Schéma 1) od předmětově specifického matematického 
+kompetenčního modelu používaného ve středních všeobecně vzdělávajících školách
+(Schéma 2).  
+**Schéma 1 – obecný vzdělávací rámec** a  
+**Schéma 2 – předmětově specifický kompetenčně-znalostní model**.
 
+Tyto modely nelze slučovat, protože pracují s pojmem *kompetence* v rozdílných kontextech. 
+Schéma 1 vymezuje celkový profil absolventa gymnázia, zatímco Schéma 2 popisuje způsob 
+matematického myšlení žáka a strukturu matematických dovedností.
 
+## SCHÉMA 1: Obecná vzdělávací hierarchie
+## **ZNALOSTI → GRAMOTNOSTI → KOMPETENCE → KOMPLEXITA**
+*(platí pro celé ŠVP G a všechny vyučovací předměty)*
 
+Obecné vzdělávání v gymnáziu se opírá o čtyřstupňový vývojový řetězec:
 
+### 1. ZNALOSTI  
+Základní pojmy, fakta, vztahy, pravidla a algoritmy – základní stavební prvky učení.
+
+### 2. GRAMOTNOSTI  
+Dovednosti využívat znalosti v konkrétním kontextu: matematická, jazyková, čtenářská, digitální, přírodovědná aj.
+  
+Do této úrovně patří nově definované gramotnosti RVP G:
+
+- **Čtenářská gramotnost** – schopnost porozumět textům, interpretovat je a využívat k řešení problémů.  
+- **Matematická gramotnost** – logické a matematické myšlení, schopnost pracovat s čísly, daty, grafy.  
+- **Digitální gramotnost** – bezpečné, kritické a tvořivé využívání digitálních technologií.
+
+Gramotnosti tvoří **spojovací vrstvu**, která propojuje znalosti s globálními / klíčovými kompetencemi.
+
+### 3. KOMPETENCE (globální / klíčové kompetence)  
+Průřezové životní dovednosti: kompetenci k učení, k řešení problémů, komunikativní, sociální a personální, občanskou, k podnikavosti, digitální. 
+Jinými slovy: schopnosti jednat, řešit problémy, komunikovat, učit se a spolupracovat.
+
+### 4. KOMPLEXITA  
+Vysoká úroveň integrace: tvořivost, adaptace k novým situacím, reflexe, syntéza.
+
+Tento model popisuje **obecné rozvíjení žáka bez ohledu na předmět** a vystihuje, kým má být žák jako absolvent gymnázia.
+
+## Význam Schématu 1
+
+- Jedná se o nadpředmětový rámec.  
+- Klíčové kompetence nejsou matematické ani oborové – jsou obecné.  
+- Gramotnosti fungují jako přechod mezi znalostmi a kompetencemi.  
+- Model popisuje celkový profil absolventa, nikoli práci v konkrétním předmětu.
+
+## SCHÉMA 2: Matematická hierarchie kompetencí 
+*(předmětově specifické, využívá se pro plánování obsahu, výuky a hodnocení v matematice)*
+
+Zatímco Schéma 1 je obecné, Schéma 2 specifikuje kompetence **uvnitř matematiky**.  
+Vychází z mezinárodních standardů a opírá se o dvě hlavní vrstvy:
+
+- **PROCESNÍ KOMPETENCE** (P - proces) – JAK žák myslí,  
+- **OBSAHOVÉ DOMÉNY** (I - obsah)– S ČÍM žák pracuje.
+
+Kombinací těchto dvou vrstev vzniká struktura 25 kompetenčních uzlů (P×I), které umožňují 
+přesné plánování a diagnostiku matematických výkonů.
+
+## Schéma 2 navazuje na vrstvy obecného modelu, ale matematicky je konkretizuje:
+
+- **Matematické znalosti**  
+- **Matematická gramotnost**  
+- **Matematické procesní kompetence**  
+- **Komplexita matematického myšlení**  
+
+Teprve pod těmito vrstvami se objevují **obsahové domény RVP** a **uzly P×I**.
+
+**Schéma 1 – obecný vzdělávací rámec** a  
+**Schéma 2 – předmětově specifický kompetenční model**.
+
+Tyto dva modely nelze zaměňovat, protože slovo *kompetence* znamená v každém z nich něco jiného.
+
+## DETAILNÍ HIERARCHIE SCHÉMATU 2
+
+### 1. MATEMATICKÉ ZNALOSTI  
+(po úrovni „Znalosti“ ze Schématu 1)
+
+- operace s čísly, vztahy a algoritmy  
+- algebraické výrazy a rovnice  
+- funkce, tabulky, grafy  
+- geometrické vlastnosti a konstrukce  
+- statistika a pravděpodobnost  
+- definice, axiomy, vlastnosti  
+
+### 2. MATEMATICKÁ GRAMOTNOST  
+(po úrovni „Gramotnosti“ ze Schématu 1)
+
+- aplikace znalostí v reálných situacích  
+- interpretace grafů, tabulek a modelů  
+- práce s daty a informacemi  
+- řešení kontextových slovních úloh  
+- přechod mezi reprezentacemi  
+
+### 3. MATEMATICKÉ PROCESNÍ KOMPETENCE 
+(„JAK žák pracuje“ – epistemická rovina matematiky)
+
+- **modelovat** – převod situací do matematických modelů  
+- **operovat** – výpočty, algebraické postupy, manipulace  
+- **řešit problémy** – strategie, heuristiky, analýza chyb  
+- **znázorňovat** – tvorba grafů, tabulek, schémat, symbolických zápisů  
+- **komunikovat** – argumentace, vysvětlení postupu, přesnost  
+
+### 4. OBSAHOVÉ DOMÉNY MATEMATIKY 
+(„S ČÍM žák pracuje“ – ontologická rovina matematiky)
+
+- čísla a měření  
+- algebra a rovnice  
+- funkce a jejich reprezentace  
+- geometrie v rovině i prostoru  
+- statistika a pravděpodobnost  
+
+### 5. KOMPETENČNÍ UZLY (25 uzlů P×I)
+
+Každá matematická úloha spadá do kombinace:
+
+**procesní kompetence × obsahová doména**, například:
+
+- modelovat × funkce → **K13**  
+- operovat × algebra → **K22**  
+- znázorňovat × statistika → **K45**  
+
+Tento systém umožňuje přesné formální hodnocení jednotlivých dovedností.
+
+## Matice procesních kompetencí × obsahových domén 
+
+| Procesní kompetence | Čísla a měření | Algebra | Funkce | Geometrie | Statistika |
+|---------------------|----------------|---------|--------|-----------|-----------|
+| modelovat           | K11            | K12     | K13    | K14       | K15       |
+| operovat            | K21            | K22     | K23    | K24       | K25       |
+| řešit problémy      | K31            | K32     | K33    | K34       | K35       |
+| znázorňovat         | K41            | K42     | K43    | K44       | K45       |
+| komunikovat         | K51            | K52     | K53    | K54       | K55       |
+
+Každý uzel reprezentuje konkrétní měřitelnou matematickou dovednost.
+
+## Jak se Schéma 1 a Schéma 2 liší?
+
+### Schéma 1 – všeobecné vzdělávání 
+- popisuje úroveň celého profilu žáka  
+- pracuje s pojmy: znalosti, gramotnosti, klíčové kompetence, komplexita  
+- je nadpředmětové  
+- kompetence zde znamenají *schopnosti pro život*  
+→ odpovídá na otázku **„CO má žák umět obecně?“**
+
+### Schéma 2 – matematické myšlení 
+- popisuje matematické procesy, nikoli celkový profil  
+- pracuje s procesními kompetencemi a obsahovými doménami  
+- kompetence zde znamenají *matematické způsoby myšlení a jednání*  
+→ odpovídá na otázku **„JAK má žák matematicky myslet?“**
+
+## Proč je nutné mít dvě oddělená schémata?
+
+- Slovo *kompetence* znamená v obou schématech něco jiného.  
+  – RVP G globální cíle: životní dovednosti a postoje  
+  – RVP G specifické cíle: matematické poznávací procesy  
+- Každé schéma má odlišnou funkci:  
+  – Schéma 1 definuje cíl gymnaziálního vzdělávání  
+  – Schéma 2 definuje, jak matematika k tomuto cíli přispívá  
+- Nepřekrývají se, ale doplňují.  
+  – Schéma 1 je horizontální rámec  
+  – Schéma 2 je vertikální oborová struktura  
+
+## SPOJOVACÍ MATICE Schéma 1 ↔ Schéma 2
+
+| Úroveň Schéma 1 | Matematická vrstva               | Charakter vztahu |
+|-----------------|----------------------------------|------------------|
+| ZNALOSTI        | Matematické znalosti             | obsah, pojmy     |
+| GRAMOTNOSTI     | Matematická gramotnost           | aplikace         |
+| KOMPETENCE      | Procesní kompetence (modelovat, operovat, …) | oborová konkretizace |
+| KOMPLEXITA      | Kompetenční uzly P×I             | nejvyšší integrace |
+
+## Závěr
+
+Schéma 1 a Schéma 2 je nezbytné jasně rozlišovat, protože každé operuje na jiné úrovni 
+vzdělávací struktury.
+
+- **Schéma 1** (ZNALOSTI → GRAMOTNOSTI → KOMPETENCE → KOMPLEXITA)  
+definuje univerzální vzdělávací rámec gymnázia.
+
+- **Schéma 2** (matematické ZNALOSTI → matematická GRAMOTNOST → procesní KOMPETENCE → kompetenční uzly P×I)  
+definuje strukturu matematického myšlení žáka a způsob, jak se hodnotí jeho konkrétní matematické dovednosti.
+Společně tvoří **dvojrozměrnou mapu vzdělávání**, kde Schéma 1 stanovuje cíl a Schéma 2 popisuje 
+konkrétní cestu v matematice.
+
+""",
 }
 
 # -----------------------
@@ -1634,6 +1822,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
