@@ -1185,7 +1185,7 @@ Komenský učitele nikdy nechápal jako pozorovatele či facilitátora. Naopak �
 - vyžaduje vytrvalost, přesnost a myšlení,  
 - je osobním vzorem práce, kultivovanosti a charakteru.
 
-Věta: > „…aby učitelé méně učili, žáci se však více naučili…“ neznamená menší roli učitele, ale **efektivnější roli**: méně mluvení, více řízené, smysluplné činnosti.
+> „…aby učitelé méně učili, žáci se však více naučili…“ neznamená menší roli učitele, ale **efektivnější roli**: méně mluvení, více řízené, smysluplné činnosti.
 
 > „Naši učitelé nesmějí být podobni sloupům u cest…“
 
@@ -1256,7 +1256,7 @@ Pro něj byla matematika vzorem jasnosti — učí přesnosti, řádu a rozlišo
 - výuka má směřovat k užitečným, obecným a přenositelným postupům;  
 - každá úloha má vést k pochopení podstaty problému, ne jen k povrchnímu algoritmu.
 
-Jeho věta: > „Nic není marnějšího než vědět a učit se mnoho, totiž co nepřinese užitku.“ dnes dokonale sedí na řady mechanických příkladů bez kontextu. Komenský by pravděpodobně řekl:
+> „Nic není marnějšího než vědět a učit se mnoho, totiž co nepřinese užitku.“ dnes dokonale sedí na řady mechanických příkladů bez kontextu. Komenský by pravděpodobně řekl:
 
 - učte méně příkladů,  
 - ale učte je důkladně,  
@@ -1634,6 +1634,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
