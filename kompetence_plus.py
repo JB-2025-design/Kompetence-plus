@@ -33,7 +33,7 @@ TOPICS = {
     "Slovní hodnocení": "Slovní hodnocení",
     "AI gramotnost jako nová součást vzdělávacího paradigmatu":"AI gramotnost jako nová součást vzdělávacího paradigmatu",
     "Komenského vize jako základ kompetenčně-znalostního modelu pro 21. století": "Komenského vize jako základ kompetenčně-znalostního modelu pro 21. století",
-    "Hierarchie pojmů a kompetenčních úrovní": "Hierarchie pojmů a kompetenčních úrovní": 
+    "Hierarchie pojmů a kompetenčních úrovní": "Hierarchie pojmů a kompetenčních úrovní"
         
 }
 
@@ -1822,6 +1822,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
