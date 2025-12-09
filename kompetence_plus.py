@@ -1332,9 +1332,8 @@ Komenský není historickým ornamentem české vzdělávací politiky. Je — z
 
 **Zdroj dat:**  
 st.markdown(
-    'Všechna použitá data a grafy pocházejí z 8. odborného panelu IPS DATA – prezentace MŠMT. '
-    '<a href="https://edu.gov.cz/shrnuti-8-odborneho-panelu-ips-data-vysledky-ceskych-zaku-v-setreni-pisa-2022-a-moznosti-rozvoje-jejich-potencialu/" target="_blank">Odkaz na zdroj</a>',
-    unsafe_allow_html=True
+    "Všechna použitá data a grafy pocházejí z 8. odborného panelu IPS DATA – prezentace MŠMT. "
+    "[https://edu.gov.cz/shrnuti-8-odborneho-panelu-ips-data-vysledky-ceskych-zaku-v-setreni-pisa-2022-a-moznosti-rozvoje-jejich-potencialu/]."
 )
 
 ## A) Výsledky českých žáků: stabilní, ale se závažnými strukturálními problémy
@@ -1638,6 +1637,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
