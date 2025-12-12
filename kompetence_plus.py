@@ -1846,3 +1846,4 @@ st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
 
 
 
+
