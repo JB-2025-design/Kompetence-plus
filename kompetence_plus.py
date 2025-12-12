@@ -1780,10 +1780,9 @@ konkrétní cestu v matematice.
 
 """,
 
-    "Znalosti + kompetence":
+"Znalosti + kompetence":
 """
-
-#Hierarchie dokumentů
+# Hierarchie dokumentů
 
 # KAPITOLA: Česká republika schválila první RVP již v roce 2004
 
@@ -1794,80 +1793,88 @@ konkrétní cestu v matematice.
 V 90. letech se vzdělávání napříč Evropou začalo posouvat od osnov (syllabus – seznam učiva) k výstupově orientovaným kurikulům (curriculum – očekávané kompetence).
 
 Tento posun byl způsoben:
-•	společnou vzdělávací politikou OECD,
-•	prvním evropským kompetenčním rámcem (2000, 2006),
-•	kurikulárními reformami ve Velké Británii, Nizozemsku, Skandinávii,
-•	tlakem na srovnatelnost výsledků (PISA začíná 2000),
-•	snahou o přípravu dětí na důležitost celoživotního vzdělávání - zařazení kompetence k samostatnému učení.
+
+- společnou vzdělávací politikou OECD,
+- prvním evropským kompetenčním rámcem (2000, 2006),
+- kurikulárními reformami ve Velké Británii, Nizozemsku, Skandinávii,
+- tlakem na srovnatelnost výsledků (PISA začíná 2000),
+- snahou o přípravu dětí na důležitost celoživotního vzdělávání.
 
 ČR chtěla:
-•	modernizovat školství,
-•	přejít na evropské standardy,
-•	podpořit decentralizaci,
-•	dát školám autonomii při tvorbě školního vzdělávacího programu.
+
+- modernizovat školství,
+- přejít na evropské standardy,
+- podpořit decentralizaci,
+- dát školám autonomii při tvorbě školního vzdělávacího programu.
 
 Proto vzniká kurikulární reforma č. 1 (2001–2007), jejímž výsledkem je RVP.
 
 ## 2. Potřeba nahradit zastaralý model „učivo = cíle“
 
 Do roku 2004 fungovaly v ČR tradiční osnovy, které:
-•	předepisovaly učivo po předmětech a ročnících (definovaly posloupnost probíraného učiva),
-•	definovaly očekávané znalosti,
-•	nepracovaly s kompetencemi,
-•	nerozlišovaly mezi dovednostmi, postoji, gramotnostmi,
-•	učitel plnil osnovu, vedl žáka k osvojení znalostí, dovedností a návyků.
+
+- předepisovaly učivo po předmětech a ročnících (definovaly posloupnost probíraného učiva),
+- definovaly očekávané znalosti,
+- nepracovaly s kompetencemi,
+- nerozlišovaly mezi dovednostmi, postoji, gramotnostmi.
 
 Tento systém byl považován za:
-•	rigidní,
-•	centralizovaný,
-•	málo kompatibilní s EU,
-•	málo orientovaný na kompetence získané během studia.
+
+- rigidní,
+- centralizovaný,
+- málo kompatibilní s EU,
+- málo orientovaný na kompetence získané během studia.
 
 RVP měl být moderní alternativou, která stanoví:
-•	co má žák umět (výstupy),
-•	ne co musí učitel probrat (osnovy).
+
+- co má žák umět (výstupy),
+- ne co musí učitel probrat (osnovy).
 
 ## 3. Domácí systémová potřeba – autonomie škol
 
 Po roce 1989 se začaly otevírat otázky:
-•	Může mít každá škola specifický profil?
-•	Je nutné, aby učitelé rigidně kopírovali centralizované osnovy?
-•	Jaký prostor má mít ředitel?
-•	Jak podporovat inovace, projekty, integraci předmětů?
+
+- Může mít každá škola specifický profil?
+- Je nutné, aby učitelé rigidně kopírovali centralizované osnovy?
+- Jaký prostor má mít ředitel?
+- Jak podporovat inovace, projekty, integraci předmětů?
 
 RVP 2004 zavádí:
-•	2 úrovně kurikula:
-•	RVP (stát stanoví rámec),
-•	ŠVP (škola ho naplňuje),
-•	Počítá se s tím, že školy použijí svou autonomii na 30 % obsahu (vymezeno to však žádným předpisem nebylo),
-•	Učitel není jen „realizátor osnov“, ale kurikulární designér.
 
-To byl zásadní posun směrem k modernímu evropskému školství.
+- dvě úrovně kurikula:
+  - RVP (stát stanoví rámec),
+  - ŠVP (škola ho naplňuje),
+- počítá se s tím, že školy použijí autonomii na 30 % obsahu (vymezeno to však žádným předpisem nebylo),
+- učitel není jen „realizátor osnov“, ale kurikulární designér.
 
-Na otázku, zda byly tradiční osnovy zrušeny, musíme odpovědět: ANO i NE — a přesně zde vzniká český „kurikulární paradox“.
+Na otázku, zda byly tradiční osnovy zrušeny, musíme odpovědět: **ANO i NE** — a přesně zde vzniká český „kurikulární paradox“.
 
 ## 4. Český kurikulární paradox
 
-Formálně zrušeny osnovy byly. 
+Formálně zrušeny osnovy byly.  
 RVP nahradil osnovy jako závazný dokument.  
 Byl to posun od:
-•	„učivo je cíl“ → ke „kompetence jsou cíl“.
-•	„předepisujeme učitelům učivo a postup“ → k „stanovujeme minimální očekávané výstupy žáků“.
+
+- „učivo je cíl“ → ke „kompetence jsou cíl“,
+- „předepisujeme učitelům učivo a postup“ → k „stanovujeme minimální očekávané výstupy žáků“.
 
 Osnovy přestaly existovat jako závazná norma.
 
-Ale obsahová logika osnov přežívala dál  
-V praxi:
-•	některé školy přepsaly staré osnovy do ŠVP,
-•	učebnice zůstaly osnovové,
-•	státní maturity a přijímačky byly do roku 2018 téměř výhradně obsahové,
-•	tradice české didaktiky (hlavně matematiky a českého jazyka) byla silně propojená s osnovovými postupy.
+Ale obsahová logika osnov přežívala dál.  
 
-Výsledkem byla kurikulární polo-reforma:
-•	RVP definoval výstupy,
-•	učitelé a školy většinou zachovávali obsahy,
-•	systém hodnocení byl převážně znalostní,
-•	formativní hodnocení se neprosadilo.
+V praxi:
+
+- některé školy přepsaly staré osnovy do ŠVP,
+- učebnice zůstaly osnovové,
+- státní maturity a přijímačky byly do roku 2018 téměř výhradně obsahové,
+- tradice české didaktiky (hlavně matematiky a českého jazyka) byla silně propojená s osnovovými postupy.
+
+Výsledkem byla **kurikulární polo-reforma**:
+
+- RVP definoval výstupy,
+- učitelé a školy většinou zachovávali obsahy,
+- systém hodnocení byl převážně znalostní,
+- formativní hodnocení se neprosadilo.
 
 Tento nesoulad přetrvává přes 20 let.
 
@@ -1875,205 +1882,134 @@ Tento nesoulad přetrvává přes 20 let.
 
 Ano — v koncepci. Ne — v implementaci a provázání systému.
 
-ANO, pokud hodnotíme:
-•	přechod na výstupově orientované pojetí,
-•	zavedení klíčových kompetencí,
-•	integraci průřezových témat,
-•	autonomii škol přes ŠVP.
+**ANO**, pokud hodnotíme:
 
-NE, pokud hodnotíme:
-•	nedostatek metodické podpory,
-•	slabé návaznosti na evaluaci,
-•	chybějící předmětové standardy,
-•	tradiční kulturu výuky, která se nezměnila,
-•   výuku, která se zaměřuje na výuku bez stanovených standardů a osnov,
-•	výuku, která se "osvobodila" a zaměřuje se na popularizaci předmětu, atraktivnost aktivit mimo rámec tradiční výuky.
+- přechod na výstupově orientované pojetí,
+- zavedení klíčových kompetencí,
+- integraci průřezových témat,
+- autonomii škol přes ŠVP.
 
-Klíčový závěr: Český RVP 2004 byl historicky velmi odvážný krok, který nás tehdy posunul mezi kurikulárně moderní systémy. Ovšem:
-•	osnovy byly formálně zrušeny,
-•	ale systém, učitelé, učebnice a testování dál udržovali jejich logiku.
+**NE**, pokud hodnotíme:
 
-To je přesně to, co v roce 2004 chybělo a proč reforma „zamrzla“ při zrodu. 
+- nedostatek metodické podpory,
+- slabé návaznosti na evaluaci,
+- chybějící předmětové standardy,
+- tradiční kulturu výuky, která se nezměnila,
+- výuku zaměřenou na „učení bez standardů“,
+- výuku, která se osvobodila od obsahu a zaměřila na atraktivní aktivity mimo rámec předmětu.
+
+Klíčový závěr:  
+Český RVP 2004 byl historicky velmi odvážný krok.  
+Ale:
+
+- osnovy byly formálně zrušeny,
+- systém, učitelé, učebnice a testování dál udržovali jejich logiku.
+
+Proto reforma „zamrzla“ při zrodu.
 
 ## 6. Jaký byl přístup Rakouska, Německa a Nizozemska?
 
-Jejich postup byl stabilnější, méně disruptivní a pedagogicky koherentní. Proč?
+Jejich postup byl stabilnější, méně disruptivní a pedagogicky koherentní.
 
-Rakousko nezrušilo osnovy, ale reformovalo je tak, aby:
-•	byly kompaktní,
-•	popisovaly učivo i kompetence,
-•	měly jasnou vazbu na Bildungsstandards (výstupové standardy),
-•	mohly být testovatelné,
-•	a byly učitelsky realistické.
+### Rakousko
 
-Výsledek:  
-Obsahové osnovy + kompetenční rámec → vysoká koherence.  
-Výuka je stabilní, očekávání jasná, evaluace provázaná.
+Nezrušilo osnovy, ale reformovalo je tak, aby:
 
-Německo  
-Německo nezrušilo osnovy, pouze je modernizovalo.
-•	existují Kerncurricula (zemská kurikula, částečně sylabická).
-•	existují kompetenční standardy KMK (závazné pro předměty).
-•	existuje výzkumná evaluace (IQB, VERA).
+- byly kompaktní,
+- popisovaly učivo i kompetence,
+- měly jasnou vazbu na Bildungsstandards,
+- byly testovatelné,
+- byly učitelsky realistické.
 
-Výsledek:  
-Osnovy zůstaly základem, ale jsou podřízené kompetenčním standardům.
+### Německo
 
-Nizozemsko  
-Nizozemsko má rámcové kerndoelen (kompetenční cíle), ale učivo není zrušeno.  
-školy staví vlastní sylaby, učebnice fungují jako konsensuální obsahová kotva.
+- zachovalo Kerncurricula (zemská kurikula),
+- závazné kompetenční standardy KMK,
+- silná evaluace (IQB, VERA).
 
-Výsledek:  
-Kurikulum + sylaby školy = flexibilní a funkční systém.
+### Nizozemsko
 
-Česká republika
-•	zrušila centrální osnovy, nahradila je RVP, který neobsahoval konkrétní učivo,
-•   najednou nebylo jasné, co se vlastně má učit,
-•	školy opisovaly staré osnovy → vznikly tisíce různých ŠVP, ale všechny podobné,
-•	svěřila obsah školám, které však neměly kompetenční nástroje ani metodiku.
+- rámcové kompetenční cíle (kerndoelen),
+- učivo autonomně určují školy a učebnice,
+- vysoká stabilita systému.
 
-Výsledek: Česká republika „vylila vaničku i s dítětem“:
-•	odstranila obsah, posléze zahodila i vaničku,
-•	ale nedala systémové kurikulární nástroje, jak pracovat s kompetencemi.
+### Česká republika
 
-V České republice chybí rovnováha mezi obsahem a kompetencemi  
-EU doporučení přitom požadují obojí. ČR šla z extrému do extrému: odstranila obsah, aby dosáhla autonomie, ale bez kompetenční architektury nelze obsah nahradit.
-Rakousko, Německo, Nizozemsko mají kompetenční standardy, obsahové standardy, evaluaci navázanou na standardy.
-ČR nemá ani učivo, ani standardy, ani funkční evaluaci.
+- zrušila obsah bez náhrady,
+- nechala školy tvořit ŠVP bez metodiky,
+- učitelé neměli kompetenční nástroje,
+- vznikly tisíce ŠVP, ale všechny opsané z osnov.
 
-Ovšem ŠVP bez metodiky se rovná chaosu. 
-Učitelé sice mají svobodu, ale i svoboda potřebuje pravidla. 
-
-Výsledkem byla papírová autonomie, ne pedagogická autonomie.
+**Výsledek:  
+V ČR chybí rovnováha mezi obsahem a kompetencemi.**
 
 ## 7. Jakou závaznost mají doporučení EU?
 
-Doporučení Rady EU nejsou právně závazná.  
-Jde o tzv. soft law:
-•	vytváří společný jazyk,
-•	nastavuje očekávání,
-•	vytyčuje strategické směry,
-•	ovlivňuje národní reformy,
-•	stanoví hodnotící rámce pro členské státy.
+Doporučení Rady EU nejsou právně závazná — jde o **soft law**:
 
-Vzdělávací systémy EU nejsou harmonizované → školská politika je národní kompetence.  
-Ale soft law EU má velký faktický vliv.
+- vytváří společný jazyk,
+- nastavuje očekávání,
+- ovlivňuje národní reformy,
+- poskytuje hodnotící rámce.
 
-Reforma RVP ZV 2023–2027 je explicitně založená na Evropském rámci klíčových kompetencí 2018, ale stále akcentuje jen jednu stránku. 
+EU neříká, že se mají zrušit osnovy.  
+Naopak zdůrazňuje:
 
-Jak do toho zapadají Závěry Rady o rozvoji škol a vynikající výuce (2017/C 421/03)?
- 
-Např. bod 12(b) zní: opatření, jimiž bude zajištěno získávání hlubokých znalostí konkrétních předmětů spolu s rozvojem úplného souboru klíčových kompetencí, především sociálních a občanských, jakož i prostřednictvím prosazování společných hodnot.
+- hluboké znalosti předmětů,
+- současný rozvoj kompetencí.
 
-Tento text říká dvě klíčové věci: Předmětová odbornost nesmí být oslabena  EU neříká, že se mají zrušit obsahové osnovy.  
-Naopak: mají existovat „hluboké znalosti konkrétních předmětů“.
+ČR však:
 
-Kompetence musí být rozvíjeny současně s obsahem  
-Rakousko, Německo a Nizozemsko to pochopily správně:
-•	obsah je prostředek,
-•	kompetence jsou výsledek,
-•	evaluace propojuje obojí.
-
-ČR však odstranila obsah, vyhlásila kompetence, ale nenastavila náhradní mechanismy, jak kompetence rozvíjet.
-
-To je hlavní důvod české reformní neúspěšnosti.
+- odstranila učivo,
+- zavedla kompetence,
+- nenastavila nástroje jejich rozvoje.
 
 ## 8. ČR se inspirovala Finskem a Švédskem
 
-Ale pouze na úrovni deklarací a koncepčních principů, ne v implementaci.
+Ale jen deklarativně.
 
-Finsko a Švédsko byly explicitně uváděny jako inspirace při vzniku RVP (MŠMT dokumenty 2001–2003).  
-Ale:
-•	Finsko i Švédsko mají vysoce profesionalizované učitele (magisterské vzdělání, selekce, stáže).
-•	Mají dlouhou tradici školní autonomie.
-•	Mají velmi silné metodické instituce (např. finské instituce produkující učebnice, výukové postupy).
-•	Mají jasná kompetenční kurikula + jednotný evaluační rámec.
+Finsko a Švédsko mají:
 
-Česká republika převzala:
-•	autonomii škol,
-•	kompetenční rámec,
-•	flexibilní strukturu ŠVP,
+- profesní učitele,
+- metodickou infrastrukturu,
+- silnou evaluaci,
+- vysokou autonomii škol.
 
-ale nepřevzala:
-•	profesní přípravu učitelů,
-•	metodickou infrastrukturu,
-•	jednotné standardy a evaluaci,
-•	financování umožňující podporu škol.
+ČR převzala:
 
-Výsledek:  
-ČR převzala autonomii, ale nikoliv systémové předpoklady, které autonomii činí funkční.
+- autonomii,
+- flexibilní ŠVP,
+- kompetenční rámec,
 
-Finské a švédské školy mají autonomii v tvorbě školních programů 50–70 %.
+ale ne převodní mechanismy, které činí autonomii funkční.
 
-Ve Finsku školy mají:
-•	70 % autonomie v plánování obsahu,
-•	100 % autonomie v metodách,
-•	100 % autonomie v hodnocení žáků (s výjimkou národních testů v 6. a 9. ročníku).
+Proto:
 
-Učivo nestanovuje stát — pouze kompetence, cíle a tematické okruhy.
-
-Švédsko  
-Podobný model:
-•	státní kurikulum stanoví cíle učení, kompetence a znalostní požadavky,
-•	školy si vytvářejí obsah a učební plány podle potřeb žáků,
-•	autonomie dosahuje 50–60 %.
-
-Finsko a Švédsko si tento přístup ošem mohou dovolit z několika strukturálních důvodů:
-
-Profesní kultura učitelů
-•	učitel = vysoce prestižní profese,
-•	přijímací řízení je selektivní (5–8 % uchazečů přijatých),
-•	komplexní příprava zahrnuje didaktiku, praxi, výzkum, vedení projektů.
-
-Autonomie funguje jen tehdy, když učitel sám dokáže:
-•	stavět kurikulum,
-•	konstruovat testy,
-•	diagnostikovat kompetence,
-•	diferencovat výuku.
-
-Metodická a obsahová infrastruktura
-•	výukové materiály, učebnice, příklady úloh, metodické portály, národní výzkumy.
-
-ČR v roce 2004 takovou infrastrukturu neměla → školy byly ponechány samy sobě.
-
-Stabilní evaluace  
-Finsko i Švédско mají:
-•	národní evaluaci kvality škol,
-•	vzorková testování,
-•	externí hodnocení,
-•	výzkumné instituce napojené na školství.
-
-Bez evaluace nelze autonomii udržet.
-
-Autonomie funguje tehdy, když:
-•	školy jsou dostatečně financované,
-•	rozdíly mezi regiony nejsou extrémní,
-•	žáci nepřicházejí se zásadními sociálními nerovnostmi.
-
-ČR má větší sociální rozdíly i financování školství pod průměrem OECD — to autonomii komplikuje.
+- autonomie = chaos,
+- ŠVP = formální dokument,
+- výsledky PISA stagnují.
 
 ## 9. Co z toho plyne pro český systém?
 
-Co z toho plyne pro český systém?
+Rakousko, Německo, Nizozemsko → **vyvážený model** autonomie (15–30 %)  
+Finsko, Švédsko → **vysoká autonomie** (50–70 %)  
+ČR → **extrémní autonomie bez nástrojů** (2004–dnes)
 
-Rakousko, Německo, Nizozemsko = vyvážený model autonomie (15–30 %)  
-Obsah + kompetence + evaluace + metodická podpora.
+Důsledky pro ČR:
 
-Finsko a Švédsko = vysoká autonomie (50–70 %)  
-Funguje díky profesní kultuře učitelů a silnému systému.
+- nerovnosti mezi školami,
+- nerovnoměrná kvalita výuky,
+- stagnace výsledků PISA,
+- ŠVP jako formální dokument, nikoliv skutečné kurikulum.
 
-Česká republika = extrémní autonomie bez nástrojů (2004)
+EU dokumenty:
 
-Výsledek:
-•	velké rozdíly mezi školami,
-•	nerovnoměrná kvalita výuky,
-•	stagnace kompetenčních výsledků v PISA,
-•	ŠVP jako formální dokument, nikoli živé kurikulum.
+- 2006/962/ES – klíčové kompetence,
+- Evropský referenční rámec 2008,
+- doporučení 2018/C 189/01 (digitální kompetence).
 
-DOPORUČENÍ RADY ze dne 18. prosince 2006 o klíčových schopnostech pro celoživotní učení (2006/962/ES).  
-Klíčove schopnosti pro celoživotni učeni – Evropsky referenčni ramec ze dne 18. prosince 2008 v Uředním věstniku Evropske unie dne 30. prosince 2006 L 394.
-DOPORUČENÍ RADY ze dne 22. května 2018 o klíčových kompetencích pro celoživotní učení  (2018/C 189/01) (digitální kompetence)
 """,
+
 
 }
 
@@ -2119,6 +2055,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
