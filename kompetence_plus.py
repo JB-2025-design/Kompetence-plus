@@ -36,7 +36,8 @@ TOPICS = {
     "Hierarchie pojmů a kompetenčních úrovní": "Hierarchie pojmů a kompetenčních úrovní",
     "Hierarchie dokumentů":"Hierarchie dokumentů",
     "Bílá kniha – evaluace a kvalita":"Bílá kniha – evaluace a kvalita",
-    "Monitorovací rámec – evaluace a Strategie 2030+":"Monitorovací rámec – evaluace a Strategie 2030+"
+    "Monitorovací rámec – evaluace a Strategie 2030+" :"Monitorovací rámec – evaluace a Strategie 2030+",
+    "Monitorovací rámec – jeho role ve světle Bílé knihy a Strategie 2030+":"Monitorovací rámec – jeho role ve světle Bílé knihy a Strategie 2030+"
         
 }
 
@@ -2368,6 +2369,179 @@ Tím plní roli, kterou Bílá kniha předpokládala:
 
 """,
 
+    "Monitorovací rámec – jeho role ve světle Bílé knihy a Strategie 2030+":
+"""
+# Monitorovací rámec stavu a vývoje vzdělávací soustavy ČR a Soubor indikátorů S2030+
+
+## 1. Historický výchozí bod: Co chtěla Bílá kniha (2001)
+
+Bílá kniha byla prvním moderním dokumentem, který uvažoval o vzdělávání jako o propojeném systému, nikoli jako o souboru škol a učiva. Její hlavní myšlenka zněla:
+
+**autonomie škol musí být vyvážena silným, koherentním systémem evaluace.**
+
+Chtěla proto vytvořit prostředí, v němž:
+- stát stanoví rámec, standardy a evaluaci,
+- školy tvoří vlastní kurikulum (ŠVP),
+- evaluace probíhá uvnitř škol i navenek,
+- data slouží k řízení kvality na všech úrovních.
+
+Bílá kniha předpokládala vznik hodnoticí kultury, která bude:
+- transparentní,
+- odborná,
+- propojená s kurikulem,
+- využívaná pro rozhodování,
+- opřená o standardy výkonu žáků.
+
+Jinými slovy: vize Bílé knihy byla systémová, strukturální a velmi komplexní.
+
+## 2. Realita implementace: co se podařilo a co zůstalo nedokončeno
+
+Po roce 2001 vzniklo RVP, dvouúrovňový kurikulární model (RVP + ŠVP) a institucializovaná vnější evaluace (CERMAT, inspekce). To je v souladu s Bílou knihou.
+
+Ale z hlediska evaluace zůstalo nedokončeno to zásadní:
+- chybí provázání RVP se standardy výkonu žáků,
+- chybí evaluace implementace kurikula (jak školy skutečně učí),
+- autoevaluace škol je často formální,
+- data o výuce nejsou propojena s řízením.
+
+**Výsledek:**  
+Kurikulum existuje, ale není řízeno. Evaluace existuje, ale není systémová.
+
+## 3. Monitorovací rámec: krok správným směrem, ale pouze část celku
+
+Dnešní Monitorovací rámec stavu a vývoje vzdělávací soustavy ČR je nejdůležitější nástroj sběru dat od roku 2001. Plní některé klíčové očekávání Bílá kniha:
+
+### Co zvládá dobře:
+- systematicky sbírá indikátory o výsledcích, nerovnostech, klimatu, účasti, učitelích,
+- umožňuje trendové analýzy,
+- poskytuje otevřená data,
+- podporuje strategické řízení na úrovni státu,
+- je provázaný s cíli Strategie 2030+.
+
+Tedy:  
+**Monitoruje stav systému, odhaluje nerovnosti, umožňuje sledovat vývoj.**
+
+### Co však nezvládá:
+- nehodnotí implementaci RVP ve výuce,
+- nesleduje kvalitu didaktických postupů,
+- neobsahuje jednotnou autoevaluaci škol,
+- nezkoumá dopad konkrétních reformních opatření,
+- není nástrojem řízení kurikula.
+
+Monitorovací rámec tedy dělá to, co Bílá kniha očekávala v jedné části — **sběr dat**.
+
+Ale nenaplňuje klíčovou ambici Bílé knihy — **evaluaci pro řízení kvality výuky**.
+
+Je výborným diagnostickým zrcadlem systému, ale není ještě navigací, která by říkala:
+- co měníme,
+- proč to měníme,
+- zda to funguje,
+- kde jsou dopady na žáky.
+
+## 4. Strategie 2030+: kontinuita problémů, kontinuita cílů
+
+Strategie 2030+ reaguje na stejná témata, která Bílá kniha identifikovala už v roce 2001:
+
+### 1. Zaměřit vzdělávání na rozvoj kompetencí
+- redukce učiva,
+- integrace gramotností,
+- důraz na metakognici a porozumění,
+- schopnost řešit problémy.
+
+### 2. Snížit nerovnosti
+- silný trend v datech PISA a TIMSS,
+- velké rozdíly mezi regiony a školami,
+- vysoký vliv rodinného zázemí.
+
+Strategie 2030+ se už opírá o Monitorovací rámec — a konečně vytváří prostředí, kde data jsou používána pro strategické řízení.
+
+Nicméně pořád ještě chybí to, co tvoří jádro moderních vzdělávacích systémů (Finsko, Rakousko, Nizozemsko):
+
+- **předmětové standardy** → definují základní kvalitu,
+- **komplexní evaluace výuky** → sleduje implementaci,
+- **jednotná autoevaluace škol** → garantuje minimální profesionální úroveň,
+- **rozvoj učitelů napojený na data** → evaluace se stává podporou, ne kontrolou.
+
+## 5. Jak se vše propojuje: co říká dnešní analýza o stavu systému
+
+Monitorovací rámec a PISA ukazují stále stejný obraz, který Bílá kniha předvídala:
+
+### Problém 1: stagnace výsledků
+- Český systém sice nekolabuje, ale také nezlepšuje výsledky žáků.
+- Bez standardů a evaluace výuky není možné systematicky zvyšovat kvalitu.
+
+### Problém 2: velké nerovnosti
+- ČR je v OECD na špičce v tom, jak moc rodina určuje výsledky žáků.
+- Systém neumí slabší žáky „vytáhnout“, protože kurikulum nemá jasné hranice ani opory.
+
+### Problém 3: kvalita vztahů žák–učitel
+- Slabší klima, nízký pocit podpory.
+- Učitelé na to nemají čas ani oporu — systém je zahlcuje obsahem a administrativou.
+
+### Problém 4: růst počtu slabých žáků
+- Podíl pod úrovní 2 v matematice roste.
+- Bez znalostního minima a gramotnostního rámce nemůže být kompetenční výuka funkční.
+
+Každý z těchto problémů ukazuje, že chybí profesionální řetězec:
+
+**Osnova → RVP → standard → evaluace → podpora učitele → kvalita výuky.**
+
+Česku chyběly prostřední články.
+
+## 6. Syntéza: co říká kombinace Bílé knihy, Monitorovacího rámce a Strategie 2030+
+
+Dnes po více než 20 letech je jasné, že:
+
+### Bílá kniha měla pravdu v diagnóze:
+- autonomie bez evaluace nefunguje,
+- kurikulum bez standardů vede k nerovnostem,
+- školy bez podpory přežívají, ale nevyvíjejí se.
+
+### Monitorovací rámec splnil pouze část vize:
+- sbírá data,
+- ukazuje nerovnosti,
+- sleduje trendy,
+- je transparentní.
+
+Ale:
+- není evaluací výuky,
+- není nástrojem kurikulárního řízení,
+- neřeší kvalitu implementace reformy.
+
+### Strategie 2030+ se pokouší opravit základní systémový deficit:
+Chce:
+- propojit kurikulum a evaluaci,
+- redukovat učivo a posílit kompetence,
+- snížit nerovnosti,
+- vytvořit profesionální podporu učitele,
+- zlepšit sběr dat.
+
+Nyní je potřeba vytvořit to, co od počátku chybí:
+
+### Učením řízený systém:
+**ZNALOSTI → GRAMOTNOSTI → KOMPETENCE → KOMPLEXITA**
+
+### Evaluací řízený systém:
+**STANDARD → DATA → PODPORA → ZLEPŠOVÁNÍ**
+
+## 7. Závěrečný obraz: cesta od roku 2001 do roku 2030+
+
+- **2001:** Bílá kniha definuje systémový rámec — autonomie + evaluace.  
+- **2004:** vzniká RVP — bez standardů a bez evaluace výuky.  
+- **2009:** Analýza ukazuje, že systém je roztříštěný.  
+- **2010–2020:** nerovnosti rostou, výsledky stagnují.  
+- **2020+:** Monitorovací rámec přináší data, ale není evaluací výuky.  
+- **2030+:** Strategie chce konečně systém sjednotit.
+
+Aby se to podařilo, je nutné vytvořit to, co v českém školství chybí 20 let:
+
+**jasné standardy, propojení kurikula s evaluací, jednotný rámec autoevaluace škol a skutečná profesní podpora učitelů.**
+
+Teprve tehdy bude možné realizovat kompetenční model, který nebude prázdnou deklarací, ale skutečnou oporou pro výuku.
+
+""",
+
+
 
 
 
@@ -2415,6 +2589,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
