@@ -35,7 +35,8 @@ TOPICS = {
     "Komenského vize jako základ kompetenčně-znalostního modelu pro 21. století": "Komenského vize jako základ kompetenčně-znalostního modelu pro 21. století",
     "Hierarchie pojmů a kompetenčních úrovní": "Hierarchie pojmů a kompetenčních úrovní",
     "Hierarchie dokumentů":"Hierarchie dokumentů",
-    "Bílá kniha – evaluace a kvalita":"Bílá kniha – evaluace a kvalita"
+    "Bílá kniha – evaluace a kvalita":"Bílá kniha – evaluace a kvalita",
+    "Monitorovací rámec – evaluace a Strategie 2030+":"Monitorovací rámec – evaluace a Strategie 2030+"
         
 }
 
@@ -2203,6 +2204,171 @@ Chtěli:
 Realita reformy (2004–2007) však naplnila pouze „zrušení“, ale už ne „nové ukotvení obsahu“.
 """,
 
+    "Monitorovací rámec – evaluace a Strategie 2030+": """
+    
+# Monitorovací rámec stavu a vývoje vzdělávací soustavy ČR
+
+Monitorovací rámec stavu a vývoje vzdělávací soustavy ČR představuje současný nástroj,
+který sleduje stav vzdělávací soustavy prostřednictvím soustavy indikátorů.
+Zaměřuje se na výsledky vzdělávání, nerovnosti, účast ve vzdělávání, personální situaci,
+financování, školní klima a další faktory. Rámec je veřejně dostupný, data jsou otevřená
+a určená k analýze jak pro státní správu, tak pro odbornou i širší veřejnost.
+
+Tento systém je úzce propojen se **Strategií 2030+**, jejíž indikátorová soustava je navržena tak,
+aby umožňovala vyhodnocovat, zda se české školství přibližuje strategickým cílům.
+
+# Kontext Bílé knihy (2001)
+
+Bílá kniha definovala evaluaci jako systémový proces, který má zahrnovat:
+
+- průběžné sledování, interpretaci a využívání dat na všech úrovních řízení vzdělávání,
+- vytvoření uceleného evaluačního rámce propojeného s RVP,
+- evaluaci jako podklad pro řízení škol, krajů a státu,
+- evaluaci založenou na jasných standardech a kritériích,
+- odborně podloženou a systematickou evaluaci jako kulturu školství.
+
+Cílem bylo vytvořit **silné, koherentní evaluační prostředí**, které bude podporovat kvalitu vzdělávání.
+
+# Jak Monitorovací rámec naplňuje očekávání Bílé knihy
+
+## Silné stránky
+
+- systematické shromažďování dat o celém systému,
+- trendové sledování indikátorů,
+- transparentnost a otevřená data,
+- analýza nerovností – přesně oblast, na kterou Bílá kniha upozorňovala,
+- využitelnost pro tvorbu vzdělávací politiky.
+
+Monitorovací rámec tedy **naplňuje část vize Bílé knihy**, zejména:
+
+- sběr dat,
+- prezentaci trendů,
+- sledování nerovností,
+- podporu strategického řízení na úrovni státu.
+
+# Limity současného Monitorovacího rámce
+
+## 1. Nepokrývá evaluaci kurikula (RVP)
+
+Monitorovací rámec sleduje stav systému jako celku,
+ale **nehodnotí dopady kurikulárních změn** na:
+
+- výuku v jednotlivých předmětech,
+- didaktické postupy,
+- profesní růst učitelů,
+- implementaci RVP ZV ani RVP G.
+
+## 2. Chybí návaznost na autoevaluaci škol
+
+Autoevaluace měla být klíčový pilíř Bílé knihy, ale:
+
+- není součástí monitorovacího rámce,
+- není jednotná,
+- je metodicky roztříštěná,
+- často má pouze formální charakter.
+
+## 3. Zaměření na výsledky, nikoli procesy
+
+Monitorovací rámec sleduje “co se děje”, ale málo sleduje:
+
+- **jak se učí**,
+- kvalitu pedagogické práce,
+- didaktické postupy,
+- míru implementace kompetenčního pojetí výuky.
+
+## 4. Nesleduje dopady reformních opatření
+
+Chybí mechanismy:
+
+- dopadových studií,
+- evaluace implementace RVP,
+- ověřování, zda změny skutečně vedou ke kvalitnějšímu učení.
+
+# Shrnutí: Monitorovací rámec ≠ ucelený evaluační systém
+
+Monitorovací rámec dnes představuje **užitečný nástroj monitorování**, nikoliv však plnohodnotný evaluační systém
+v pojetí Bílé knihy, protože:
+
+- nenaplňuje vazbu evaluace ↔ kurikulum ↔ pedagogická praxe,
+- neobsahuje jednotný rámec autoevaluace škol,
+- neposkytuje přímé informace o dopadech kurikulárních reforem,
+- neslouží k vyhodnocování účinnosti konkrétních vzdělávacích politik.
+
+Monitorovací rámec poskytuje informace o tom **co** se v systému děje,
+ale nedává odpovědi na otázky **proč** se to děje a **jak účinné** jsou reformy.
+
+Aby evaluace odpovídala ambicím Bílé knihy, bude nutné doplnit:
+
+- hlubší analýzy implementace,
+- dopadové studie,
+- předmětové standardy,
+- jednotný rámec autoevaluace škol.
+
+# Strategie 2030+ – hlavní strategické cíle českého vzdělávání
+
+## 1. Zaměřit vzdělávání více na kompetence potřebné pro občanský, profesní i osobní život
+
+To znamená:
+
+- posun od přetíženého učiva k rozvoji kompetencí,
+- důraz na gramotnosti (čtenářská, matematická, digitální, občanská),
+- rozvoj kritického myšlení, tvořivosti, komunikace a spolupráce,
+- schopnost řešit problémy a učit se po celý život,
+- posílení metakognice a porozumění učení.
+
+Součástí cíle je revize RVP ZV a RVP G (redukce učiva, zpřesnění kompetencí).
+
+## 2. Snížit nerovnosti v přístupu ke kvalitnímu vzdělávání
+
+Tento cíl zahrnuje:
+
+- omezení vlivu socioekonomického zázemí na výsledky žáků,
+- podporu slabších žáků,
+- dostupnost poradenských služeb,
+- rovnější rozložení kvality mezi školami,
+- zlepšení prostupnosti vzdělávacích cest,
+- podporu inkluze.
+
+# Implementační směry Strategie 2030+
+
+1. **Změnit obsah vzdělávání**  
+   – revize RVP, redukce učiva, integrace gramotností.
+
+2. **Zvýšit kvalitu výuky a podporu učitelů**  
+   – profesní rozvoj, mentoring, standardy profese, podpora didaktik.
+
+3. **Rozvíjet rovné příležitosti a podporu žáků**  
+   – podpůrná opatření, prevence selhávání, raná intervence.
+
+4. **Posílit vedení škol a profesionální řízení**  
+   – podpora ředitelů, rozvoj leadershipu, kultura evaluace.
+
+5. **Zlepšit sběr dat, evaluaci a monitorování systému**  
+   – zde vzniká Monitorovací rámec a indikátorová soustava.
+
+6. **Stabilizovat a zkvalitnit financování vzdělávání**  
+   – vícezdrojové financování, prediktivní plánování.
+
+# Jak to souvisí s Monitorovacím rámcem?
+
+Monitorovací rámec sleduje, zda se systém přibližuje strategickým cílům.
+
+Indikátory měří například:
+
+- výsledky žáků v gramotnostech (PISA, TIMSS, PIRLS),
+- míru nerovností mezi regiony a školami,
+- dostupnost podpůrných opatření,
+- spokojenost žáků a učitelů,
+- počet učitelů a jejich kvalifikaci,
+- vzdělávací dráhy a rané odchody ze vzdělávání.
+
+Tím plní roli, kterou Bílá kniha předpokládala:
+
+**data mají být nástrojem řízení, nikoli pouhou statistikou.**
+
+""",
+
+
 
 
 }
@@ -2249,6 +2415,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
