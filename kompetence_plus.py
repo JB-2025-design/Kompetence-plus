@@ -34,7 +34,7 @@ TOPICS = {
     "AI gramotnost jako nová součást vzdělávacího paradigmatu":"AI gramotnost jako nová součást vzdělávacího paradigmatu",
     "Komenského vize jako základ kompetenčně-znalostního modelu pro 21. století": "Komenského vize jako základ kompetenčně-znalostního modelu pro 21. století",
     "Hierarchie pojmů a kompetenčních úrovní": "Hierarchie pojmů a kompetenčních úrovní",
-    "Znalosti + kompetence":"Znalosti + kompetence"
+    "Hierarchie dokumentů":"Hierarchie dokumentů"
         
 }
 
@@ -1780,7 +1780,7 @@ konkrétní cestu v matematice.
 
 """,
 
-"Znalosti + kompetence":
+"Hierarchie dokumentů":
 """
 # Hierarchie dokumentů
 
@@ -2005,7 +2005,7 @@ Důsledky pro ČR:
 EU dokumenty:
 
 - DOPORUČENÍ RADY ze dne 18. prosince 2006 o klíčových schopnostech pro celoživotní učení (2006/962/ES).  
-- Klíčove schopnosti pro celoživotni učeni – Evropsky referenčni ramec ze dne 18. prosince 2008 v Uředním věstniku Evropske unie dne 30. prosince 2006 L 394.
+- Klíčové schopnosti pro celoživotní učení – Evropský referenční rámec ze dne 18. prosince 2008 v Uředním věstníku Evropské unie dne 30. prosince 2006 L 394.
 - DOPORUČENÍ RADY ze dne 22. května 2018 o klíčových kompetencích pro celoživotní učení  (2018/C 189/01) (digitální kompetence)
 
 """,
@@ -2055,6 +2055,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
