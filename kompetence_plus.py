@@ -34,7 +34,8 @@ TOPICS = {
     "AI gramotnost jako nová součást vzdělávacího paradigmatu":"AI gramotnost jako nová součást vzdělávacího paradigmatu",
     "Komenského vize jako základ kompetenčně-znalostního modelu pro 21. století": "Komenského vize jako základ kompetenčně-znalostního modelu pro 21. století",
     "Hierarchie pojmů a kompetenčních úrovní": "Hierarchie pojmů a kompetenčních úrovní",
-    "Hierarchie dokumentů":"Hierarchie dokumentů"
+    "Hierarchie dokumentů":"Hierarchie dokumentů",
+    "Bílá kniha – evaluace a kvalita":"Bílá kniha – evaluace a kvalita"
         
 }
 
@@ -2010,6 +2011,199 @@ EU dokumenty:
 
 """,
 
+    "Bílá kniha – evaluace a kvalita":
+"""
+# 1. Co chtěla Bílá kniha (2001)
+
+Bílá kniha je rámcový strategický dokument, který měl být „systémovým projektem“ – myšlenkovým základem pro všechny další koncepce (Dlouhodobý záměr, RVP, evaluační systém apod.).
+
+V oblasti monitorování a hodnocení kvality:
+
+- zdůrazňuje nutnost uceleného systému evaluace na všech úrovních – škola, kraj, stát;
+- klade důraz na vyvážení autonomie škol a systematického hodnocení výsledků;
+- chce vytvořit „bohaté a diferencované evaluační prostředí“ – vnitřní i vnější evaluace, provázané s kurikulem a řízením;
+- navrhuje konkrétní opatření:
+  - dobudovat evaluační a informační systémy regionálního školství,
+  - zřídit Centrum pro evaluaci a monitorování vzdělávacích výsledků (dnešní CZVV/CERMAT),
+  - vytvářet evaluační standardy pro RVP (katalogy požadavků apod.).
+
+**Stručně:**  
+Bílá kniha chce decentralizaci + autonomii škol, ale zároveň silný, promyšlený systém evaluace a jasně navázané standardy.
+
+# 2. Co zjistila Analýza naplnění cílů (2009)
+
+Analýza z roku 2009 se dívá na to, do jaké míry byly cíle Bílé knihy naplněny v šesti strategických liniích.
+
+V oblasti evaluace a kvality:
+
+1. Cíl byl správně postavený, ale systém nevznikl.
+
+   - Proběhla řada dílčích aktivit (vznik CZVV, práce na nové maturitě, právní zakotvení vlastního hodnocení školy),
+   - ale nevznikl ucelený systém evaluace, jaký Bílá kniha předpokládala.
+
+2. Chybí provázanost s cíli vzdělávací politiky a kurikulem.
+
+   - Evaluace je často vnímána jako cíl sama o sobě (testy, projekty),
+   - není jasně definováno, jaké cíle vzdělávací politiky mají tyto nástroje podporovat.
+
+3. Autoevaluace škol – spíše formální než rozvojová.
+
+   - Plány vlastního hodnocení: časté kopírování vyhlášky, chybí cíle, metody, analýza dat,
+   - školy nedostaly systematickou metodickou ani finanční podporu; povinnost vznikla zákonem, ale bez nástrojů.
+
+4. Slabý monitoring dopadů reforem.
+
+   - Mnoho jevů není systematicky sledováno; analýza často naráží na nedostatek dat (vývoj výkonů systému, dopady opatření atd.).
+
+**Shrnutí:**  
+Analýza říká v podstatě:  
+Cíle Bílé knihy jsou v zásadě relevantní, ale implementace je fragmentovaná, bez jasné koncepce a bez kvalitního monitoringu.
+
+# 3. Jak to vidíme dnes (s vědomím současných dopadů)
+
+## 3.1 Co se reálně podařilo
+
+Z dnešního pohledu je zřejmé, že několik klíčových linií Bílé knihy se prosadilo:
+
+- **Kurikulum:** RVP + ŠVP jako dvouúrovňový systém (rámec + školní program) skutečně vznikl a je dodnes základní strukturou.
+- **Autonomie škol:** posílila (ŠVP, organizace výuky, dílčí formy hodnocení).
+- **Evaluační instituce:** vzniklo CZVV (CERMAT) jako centrum pro zjišťování výsledků vzdělávání, napojení na mezinárodní šetření PISA, TIMSS, PIRLS apod.
+- **Zavedení národních testů:** přijímačky, státní maturita, plošná i vzorková šetření.
+
+Z hlediska Bílé knihy to odpovídá části její vize:  
+existuje vnější evaluace (testy, inspekce), existuje právní rámec pro autoevaluaci, školy mají větší odpovědnost za vlastní kvalitu.
+
+## 3.2 Co zůstalo nedokončeno
+
+Dnešní strategické dokumenty (Strategie 2020, Strategie 2030+) v mnohém opakují tytéž problémy, které už v roce 2009 pojmenovala Analýza Bílé knihy:
+
+- Stále chybí jeden soudržný systém evaluace, který by:
+  - měl jasně definované cíle,
+  - spojoval autoevaluaci, inspekci, testování, výzkum a data do jednoho rámce,
+  - byl pevně navázaný na kurikulum a vzdělávací cíle (kompetence).
+
+- Testování ≠ evaluační kultura.
+  - Testy (přijímačky, maturita) se staly dominantním nástrojem,
+  - ale „bohaté a diferencované evaluační prostředí“ (formativní hodnocení, školní autoevaluační cykly, podpora profesního učení učitelů) se rozvíjelo jen fragmentárně.
+
+- Autoevaluace je pořád slabým článkem.
+  - Proběhla řada projektů OP VK / OP VVV (Autoevaluace, Kvalita I–II, Strategické řízení a plánování ve školách a v územích…),
+  - ale dodnes neexistuje široce sdílený, jednoduchý a srozumitelný model pro školy,
+  - rozdíly mezi školami jsou extrémně velké – od velmi propracovaných systémů kvality po čistý formalismus.
+
+- Nedotažené provázání RVP – standardy – evaluace.
+  - Bílá kniha mluvila o evaluačních standardech pro RVP,
+  - reálné standardy se rodí velmi pomalu a až Strategie 2030+ znovu silně otevírá téma „kompetenčně založeného kurikula + nástrojů pro ověřování kompetencí“.
+
+## 3.3 Výsledky a dopady – v čem měla Bílá kniha pravdu
+
+Když se dnes podíváme na:
+
+- stagnaci / mírný pokles výsledků v PISA,
+- vysokou závislost výsledků na socio-ekonomickém zázemí,
+- velké rozdíly mezi školami a regiony,
+
+dochází česká i mezinárodní analýza k závěru, že problém není v tom, že jsme RVP zavedli, ale v tom, že jsme nikdy nedovybudovali promyšlený systém podpory, evaluace a vyhodnocování dopadů.
+
+To přesně odpovídá varování v Analýze Bílé knihy:
+
+- bez kvalitního monitoringu a výzkumu se opatření dělají „naslepo“,
+- bez jasné koncepce evaluace vznikají neslučitelné dílčí projekty,
+- bez podpory autoevaluace školy přebírají legislativní povinnosti spíše formálně.
+
+# 4. Celkové zhodnocení obou dokumentů „s dnešní znalostí“
+
+**Bílá kniha (2001)**
+
+- velmi přesně pojmenovala potřebu kombinace autonomie škol a silného evaluačního systému,
+- předběhla dobu důrazem na evaluační kulturu, interní + externí evaluaci, standardy pro RVP,
+- ale nedomodelovala praktické nástroje pro implementaci (co přesně mají školy dělat, co stát zajistí, jak budou systémově běžet data a výzkum).
+
+**Analýza naplnění cílů (2009)**
+
+- střízlivě konstatovala, že existuje mnoho dílčích kroků bez systému,
+- přesně pojmenovala chybějící provázanost mezi kurikulem, evaluací, výzkumem a řízením,
+- upozornila na formální autoevaluaci a nedostatek podpory školám,
+- ale byla zveřejněna relativně pozdě a velká část jejích doporučení se do konzistentní politiky promítala jen postupně.
+
+**S odstupem 20+ let se ukazuje:**
+
+- Bílá kniha byla vizionářská v diagnóze (autonomie + evaluace + kompetence),
+- Analýza 2009 velmi dobře popsala, proč se ta vize nenaplňuje,
+- současné dokumenty (Strategie 2030+) řeší téměř stejné problémy – kompetenční kurikulum, nástroje pro ověřování kompetencí, redukci nerovností, lepší data a evaluaci.
+
+# 5. Zrušení osnov nebylo v plánu
+
+Autoři Bílé knihy nechtěli zrušit osnovy ve smyslu odstranit obsah vzdělávání.  
+Chtěli zrušit původní formu osnov jako rigidní seznam učiva a nahradit je moderním kurikulem, které kombinuje:
+
+- očekávané výstupy (kompetence),
+- obsahové okruhy (učivo),
+- standardy a evaluaci,
+
+tj. nikoli zánik učiva, ale jeho jiné ukotvení.
+
+## Co říká Bílá kniha o osnovách?
+
+Bílá kniha nikde nepožaduje „zrušit učivo“.  
+Co kritizuje, je staré pojetí osnov jako jediného závazného nástroje řízení.
+
+### Kritika starých osnov
+
+Autoři zdůrazňují, že:
+
+- osnovy jsou „příliš podrobné“,
+- „předepisují postup učitele“,
+- „nevyjadřují očekávané výsledky učení“,
+- „nevedou k rozvoji klíčových kompetencí“.
+
+To je kritika formy, nikoli existence obsahu.
+
+### Požadavek reformy, nikoli zrušení
+
+Bílá kniha zavádí dva nové pojmy:
+
+- Rámcový vzdělávací program (RVP) – stanoví cíle, výstupy a obsahové okruhy,
+- Školní vzdělávací program (ŠVP) – škola stanoví konkrétní učivo a metody.
+
+Tedy obsah (učivo) nezmizel, pouze:
+
+- se přesunula odpovědnost za jeho detailní strukturu na školy,
+- stát dál definoval oblasti vzdělávání.
+
+Autoři výslovně požadovali provázání obsahu a výstupů, ne odstranění obsahu.  
+To odpovídá trendu OECD i EU:
+
+→ obsah zůstává, ale není jediným cílem vzdělávání.
+
+Autoři nechtěli osnovy zrušit → chtěli zrušit jejich staré pojetí.
+
+## Co se ale stalo v realitě?
+
+A tady vznikl problém české reformy:
+
+- Bílá kniha počítala s tím, že obsah bude dále existovat v jasně vymezené podobě, jen nebude detailní a rigidní.
+- RVP ZV 2004 však obsah zredukoval výrazně více, než autoři Bílé knihy předpokládali.
+- Klíčové výstupy nebyly podloženy předmětovými standardy, které Bílá kniha vyžadovala.
+- Školy nedostaly metodickou a obsahovou podporu → začaly opisovat staré osnovy.
+
+Tedy:  
+„Osnovy byly zrušeny na papíře, ale nikdo nevytvořil funkční obsahový rámec, který by je nahradil.“
+
+A to nebyl původní záměr autorů Bílé knihy.
+
+Autoři Bílé knihy **NECHTĚLI** zrušit osnovy jako obsah.  
+Chtěli:
+
+- odstranit rigidní centrální osnovy,
+- nahradit je rámcovým kurikulem,
+- ponechat školám tvorbu vlastního učiva,
+- ale zároveň vytvořit standardy a evaluaci, aby byl obsah garantovaný.
+
+Realita reformy (2004–2007) však naplnila pouze „zrušení“, ale už ne „nové ukotvení obsahu“.
+""",
+
+
 
 }
 
@@ -2055,6 +2249,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
