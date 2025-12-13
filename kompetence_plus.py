@@ -109,10 +109,18 @@ Jde o typickou systémovou chybu, nikoli o individuální selhání rodičů neb
 
 ## 2. Kompetence se učí, znalosti se testují: nevyřešený kurikulární konflikt
 
-České školy mají podle RVP vyučovat kompetenčně: žák se má učit spolupracovat, řešit problémy, zkoumat, tvořit, přemýšlet v souvislostech.
+České školy mají podle RVP vyučovat kompetenčně: žák se má učit spolupracovat, řešit problémy, zkoumat, tvořit, přemýšlet v souvislostech. 
+Proto si má ovojit tyto kompetence: komunikativní, osobnostní a sociální, k občanství a udržitelnosti, k podnikavosti, k řešení problémů, kulturní a digitální.
 
 Přijímací zkoušky CERMATu však fungují opačně:  
 v časově omezeném režimu testují znalosti, přesnost a rychlost — nikoli kompetence.
+
+Co říkají Specifikace požadaků pro přijímací zkoušky implicitně:
+- kompetence jsou deklarovány
+- znalosti jsou dominantní nosnou kostrou
+- kompetence jsou často navázané na znalostní základ, nikoli samostatné
+
+Nezkouší se „kompetence samy o sobě“, ale kompetence podmíněné zvládnutím znalostních struktur.
 
 Tato dualita působí škodlivě:
 
@@ -2589,6 +2597,7 @@ st.markdown("---")
 text = get_content(topic)
 st.markdown(text)
 st.markdown("**Autor: Jiří Bochez, 7. 12. 2025**")
+
 
 
 
